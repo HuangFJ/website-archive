@@ -1,10 +1,10 @@
 [package]
-name = "kfnets-crack"
+name = "website-archive"
 version = "0.1.0"
 authors = ["Jon Huang <biohfj@gmail.com>"]
 
 [[bin]]
-name = "kfnets-crack"
+name = "website-archive"
 path = "src/main.rs"
 
 [dependencies]
