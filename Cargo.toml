@@ -1,0 +1,16 @@
+[package]
+name = "kfnets-crack"
+version = "0.1.0"
+authors = ["Jon Huang <biohfj@gmail.com>"]
+
+[[bin]]
+name = "kfnets-crack"
+path = "src/main.rs"
+
+[dependencies]
+reqwest = "*"
+rocket="*"
+regex = "*"
+sha1 = "*"
+url="*"
+tree_magic = "*"
