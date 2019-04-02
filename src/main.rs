@@ -5,9 +5,18 @@ extern crate reqwest;
 extern crate sha1;
 #[macro_use]
 extern crate rocket;
+extern crate htmlescape;
 extern crate tree_magic;
 extern crate url;
+#[macro_use]
+extern crate log;
+extern crate log4rs;
 
+use htmlescape::decode_html;
+use log::LevelFilter;
+use log4rs::append::file::FileAppender;
+use log4rs::config::{Appender, Config, Root};
+use log4rs::encode::pattern::PatternEncoder;
 use regex::Regex;
 use rocket::request::{self, FromRequest, Request};
 use rocket::Outcome;
@@ -20,8 +29,12 @@ use std::thread;
 use url::percent_encoding::percent_decode;
 use url::Url;
 
-const FEED: &str = "http://cslabcms.nju.edu.cn/problem_solving/index.php/%E9%A6%96%E9%A1%B5";
-const TARGET_PATH: &str="http://cslabcms.nju.edu.cn/problem_solving/index.php/";
+const FEED: &str = "http://cslabcms.nju.edu.cn/problem_solving/index.php/首页";
+const INCLUDE_URL_PREFIX: [&str; 1] = ["http://cslabcms.nju.edu.cn/problem_solving/index.php/"];
+const EXCLUDE_URL_PREFIX: [&str; 2] = [
+    "http://cslabcms.nju.edu.cn/problem_solving/index.php/模板:",
+    "http://cslabcms.nju.edu.cn/problem_solving/index.php/特殊:",
+];
 
 struct HttpRequest<'a, 'r>(&'a Request<'r>);
 
@@ -48,6 +61,18 @@ fn index(_path: PathBuf, request: HttpRequest) -> Option<fs::File> {
 }
 
 fn main() {
+    let logfile = FileAppender::builder()
+        .encoder(Box::new(PatternEncoder::new("{l} - {m}\n")))
+        .build("output.log")
+        .unwrap();
+
+    let config = Config::builder()
+        .appender(Appender::builder().build("logfile", Box::new(logfile)))
+        .build(Root::builder().appender("logfile").build(LevelFilter::Info))
+        .unwrap();
+
+    log4rs::init_config(config).unwrap();
+
     let (sender, receiver) = mpsc::channel();
     sender.send(FEED.to_string());
 
@@ -62,31 +87,40 @@ fn main() {
         }
     });
 
-    rocket::ignite().mount(TARGET_PATH, routes![index]).launch();
+    rocket::ignite().mount("/", routes![index]).launch();
 }
 
 fn fetch(uri: &str, sender: &mpsc::Sender<String>) {
+    // 根地址
     let base_url = Url::parse(FEED).unwrap().join("/").unwrap();
+    // 目标地址
     let target_url = Url::parse(uri).unwrap();
 
+    let target_url_str = url_decode(target_url.as_str());
+    // 在白名单
+    for in_url in INCLUDE_URL_PREFIX.iter() {
+        if target_url_str.starts_with(in_url) {
+            //不在黑名单
+            for ex_url in EXCLUDE_URL_PREFIX.iter() {
+                if target_url_str.starts_with(ex_url) {
+                    return;
+                }
+            }
+        } else {
+            return;
+        }
+    }
+
     // 将url转为相对地址
-    let local_uri = if target_url.as_str().starts_with(TARGET_PATH) {
-        url_decode(
-            target_url
-                .as_str()
-                .replacen(base_url.as_str(), "", 1)
-                .trim_start_matches("/"),
-        )
-    } else {
-        return;
-    };
+    let local_uri = target_url_str.replacen(base_url.as_str(), "", 1);
+    let safe_local_uri = local_uri.trim_start_matches("/");
 
-    println!("fetching {}", local_uri);
+    info!("fetching {}", safe_local_uri);
 
-    let local_path = Path::new(&local_uri);
+    let local_path = Path::new(safe_local_uri);
     if !local_path.exists() {
         // 本地文件不存在，网络获取内容
-        let ret = reqwest::get(target_url.as_str());
+        let ret = reqwest::get(&target_url_str);
         let mut res = if ret.is_ok() { ret.unwrap() } else { return };
 
         // 创建递归目录
@@ -95,7 +129,7 @@ fn fetch(uri: &str, sender: &mpsc::Sender<String>) {
         let mut local_file = match fs::File::create(local_path) {
             Ok(f) => f,
             Err(e) => {
-                println!("{:?}", e);
+                error!("{:?}", e);
                 return;
             }
         };
@@ -104,11 +138,13 @@ fn fetch(uri: &str, sender: &mpsc::Sender<String>) {
     }
 
     let content_type = tree_magic::from_filepath(local_path);
-    println!("content type is {}", content_type);
+    info!("content type is {}", content_type);
+    // 文档须是文本类型
     if !content_type.starts_with("text/") {
         return;
     }
 
+    // 读取文档内容
     let mut content = String::new();
     fs::File::open(local_path)
         .unwrap()
@@ -125,21 +161,23 @@ fn fetch(uri: &str, sender: &mpsc::Sender<String>) {
         if got.is_none() {
             return;
         }
-        let href = got.map(|x| x.as_str()).unwrap();
+        // 将href地址中的&编码转成正常字符串
+        let href = decode_html(got.map(|x| x.as_str()).unwrap()).unwrap();
 
         // 剔除href为#的uri
         if !href.starts_with("#") {
-            sender.send(target_url.join(href).unwrap().to_string());
+            // 拼成完整的地址
+            sender.send(target_url.join(&href).unwrap().to_string());
         }
 
         count += 1;
     }
 
-    println!("got {} hrefs", count);
+    info!("got {} hrefs", count);
 }
 
 fn url_decode(url: &str) -> String {
-    // 将url中%的字符串解码成正常字符串
+    // 将url中%编码转成正常字符串
     percent_decode(url.as_bytes())
         .decode_utf8()
         .unwrap()
