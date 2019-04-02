@@ -56,7 +56,7 @@ impl<'a, 'r> Deref for HttpRequest<'a, 'r> {
 fn index(_path: PathBuf, request: HttpRequest) -> Option<fs::File> {
     let uri = format!("{}", request.uri());
     let file = url_decode(uri.trim_start_matches('/'));
-    println!("{}", file);
+    info!("{}", file);
     fs::File::open(file).ok()
 }
 
