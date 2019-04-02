@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2012级--讨论记录 (第一学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2012级--讨论记录_(第一学期)","wgTitle":"2012级--讨论记录 (第一学期)","wgCurRevisionId":429,"wgRevisionId":429,"wgArticleId":75,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2012级--讨论记录_(第一学期)","wgRelevantArticleId":75,"wgRequestId":"7c30932f25da87d394fff925","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2012级--讨论记录_第一学期 rootpage-2012级--讨论记录_第一学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2012级--讨论记录 (第一学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>目录</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#2012.E5.B9.B49.E6.9C.8827.E6.97.A5"><span class="tocnumber">1</span> <span class="toctext">2012年9月27日</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#2012.E5.B9.B410.E6.9C.8811.E6.97.A5"><span class="tocnumber">2</span> <span class="toctext">2012年10月11日</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#2012.E5.B9.B410.E6.9C.8818.E6.97.A5"><span class="tocnumber">3</span> <span class="toctext">2012年10月18日</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#2012.E5.B9.B410.E6.9C.8823.E6.97.A5"><span class="tocnumber">4</span> <span class="toctext">2012年10月23日</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#2012.E5.B9.B411.E6.9C.882.E6.97.A5"><span class="tocnumber">5</span> <span class="toctext">2012年11月2日</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#2012.E5.B9.B411.E6.9C.888.E6.97.A5"><span class="tocnumber">6</span> <span class="toctext">2012年11月8日</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#2012.E5.B9.B411.E6.9C.8816.E6.97.A5"><span class="tocnumber">7</span> <span class="toctext">2012年11月16日</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#2012.E5.B9.B411.E6.9C.8822.E6.97.A5"><span class="tocnumber">8</span> <span class="toctext">2012年11月22日</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#2012.E5.B9.B411.E6.9C.8829.E6.97.A5"><span class="tocnumber">9</span> <span class="toctext">2012年11月29日</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#2012.E5.B9.B412.E6.9C.886.E6.97.A5"><span class="tocnumber">10</span> <span class="toctext">2012年12月6日</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#2012.E5.B9.B412.E6.9C.8813.E6.97.A5"><span class="tocnumber">11</span> <span class="toctext">2012年12月13日</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#2012.E5.B9.B412.E6.9C.8820.E6.97.A5"><span class="tocnumber">12</span> <span class="toctext">2012年12月20日</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#2012.E5.B9.B412.E6.9C.8827.E6.97.A5"><span class="tocnumber">13</span> <span class="toctext">2012年12月27日</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#.E6.9C.80.E5.90.8E.E4.B8.80.E6.AC.A1.E4.BD.9C.E4.B8.9A.E8.AE.B2.E8.A7.A3"><span class="tocnumber">14</span> <span class="toctext">最后一次作业讲解</span></a></li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="2012.E5.B9.B49.E6.9C.8827.E6.97.A5">2012年9月27日</span></h1>
+<p><a href="/problem_solving/images/b/ba/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC1%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第1次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    利用the list求解UD第1章问题1（找水平、垂直对称单词）。
+    <ul>
+      <li>审题：分别水平、垂直翻转后不变，还是同时水平、垂直翻转后不变。</li>
+      <li>plan：包括数据、算法两部分；未必每个字母都要对称（也可以翻转成为另一个字母）；字典中的单词要先转为大写。</li>
+    </ul>
+  </li>
+  <li>
+    将上述plan转换成计算机可理解的形式（输入、算法、输出）。
+    <ul>
+      <li>输入：字典；字母及其是否对称。</li>
+      <li>算法：描述的颗粒度要适中。</li>
+      <li>输出：题目只要找一个单词，不是全部。</li>
+    </ul>
+  </li>
+  <li>
+    要把大象装冰箱，总共分几步（小品视频）。
+    <ul>
+      <li>问题的输入和算法的输入要匹配。</li>
+      <li>算法要能处理异常输入。</li>
+    </ul>
+  <li>
+    算法--&gt;C++程序（计算机仍然不能直接理解）--&gt;机器语言。
+  </li>
+  <li>
+    熟悉VC++编程环境。
+  </li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B410.E6.9C.8811.E6.97.A5">2012年10月11日</span></h1>
+<p><a href="/problem_solving/images/3/32/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-%E7%AC%AC2%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-第2次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>C++程序设计(1)</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B410.E6.9C.8818.E6.97.A5">2012年10月18日</span></h1>
+<p><a href="/problem_solving/images/2/26/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC3%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第3次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    理解Cantor定理。
+    <ul>
+      <li>幂集的含义。</li>
+      <li>证明的思路。</li>
+    </ul>
+  </li>
+  <li>
+    Implication的陈述方法。
+    <ul>
+      <li>中英文术语的对应。</li>
+      <li>直译与意译。</li>
+    </ul>
+  </li>
+  <li>
+    Exercise 2.8。
+    <ul>
+      <li>真值表的应用。</li>
+      <li>形式化问题时的命题选择。</li>
+    </ul>
+  </li>
+  <li>求解Knights and Knaves：命题的形式化（特别是等价运算符的使用）。</li>
+  <li>
+    合取/析取范式的化简。
+    <ul>
+      <li>可合取分量的选择：只有一个变元前的正反符号不同。</li>
+      <li>编程：循环的使用（特别是循环的条件）。</li>
+    </ul>
+  </li>
+  <li>量词与集合：命题形式化的全面性与准确性。</li>
+  <li>proof in cases方法的正确性：命题的形式化。</li>
+  <li>扑克牌魔术的原理：将问题形式化为数学归纳法可解的形式（特别是确定n的含义）。</li>
+  <li>表达式的范式表示：数学归纳法证明中要确保能覆盖n+1时的所有可能性。</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B410.E6.9C.8823.E6.97.A5">2012年10月23日</span></h1>
+<p><a href="/problem_solving/images/e/ee/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-%E7%AC%AC4%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-第4次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>C++程序设计(2)</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B411.E6.9C.882.E6.97.A5">2012年11月2日</span></h1>
+<p><a href="/problem_solving/images/5/5d/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC5%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第5次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    不用递归实现second-visit-traversal。
+    <ul>
+      <li>方法1：引入“返回父节点”操作。</li>
+      <li>方法2：运用堆栈。</li>
+    </ul>
+  </li>
+  <li>
+    走迷宫的算法。
+    <ul>
+      <li>（没有回路的）迷宫可表示为树。</li>
+      <li>走迷宫可表示为树的遍历。</li>
+    </ul>
+  </li>
+  <li>树节点的逐层输出：运用队列（操作受限的数组）。</li>
+  <li>
+    对战tic-tac-toe的算法。
+    <ul>
+      <li>下每一步棋的目的：最大化获胜概率。</li>
+      <li>结果最完美的算法：穷举所有可能性。</li>
+      <li>所有可能性的表示方法：树。</li>
+      <li>下每一步棋的获胜概率的计算：叶子节点的分布。</li>
+    </ul>
+  </li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B411.E6.9C.888.E6.97.A5">2012年11月8日</span></h1>
+<p><a href="/problem_solving/images/6/64/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC6%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第6次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    “选择排序”算法的流程图：自顶向下解决问题的思路。
+    <ul>
+      <li>先绘制外层循环。</li>
+      <li>再绘制内层循环。</li>
+    </ul>
+  </li>
+  <li>子程序（函数）的四个作用及举例。</li>
+  <li>
+    所有C++变量名构成的语言：
+    <ul>
+      <li>对应的BNF：自顶向下解决问题的思路；递归定义的多种写法。</li>
+      <li>*对应的有穷状态自动机。</li>
+      <li>利用有穷状态自动机检查句子的合法性。</li>
+      <li>*利用有穷状态自动机对不合法的句子提出修改建议。</li>
+    </ul>
+  </li>
+  <li>C++变量声明语句对应的BNF：自顶向下解决问题的思路。</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B411.E6.9C.8816.E6.97.A5">2012年11月16日</span></h1>
+<p><a href="/problem_solving/images/3/3f/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-%E7%AC%AC7%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-第7次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>C++程序设计(3)</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B411.E6.9C.8822.E6.97.A5">2012年11月22日</span></h1>
+<p><a href="/problem_solving/images/2/21/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC8%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第8次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    编译型语言 vs. 解释型语言。
+    <ul>
+      <li>编译型的优势：运行效率、知识产权保护。</li>
+      <li>解释型的优势：跨平台、交互性。</li>
+    </ul>
+  </li>
+  <li>用C语言来编写一个C语言编译器自身的绝大部分：递增实现。</li>
+  <li>包含于 vs. 属于。</li>
+  <li>
+    自顶向下证明集合相关的命题。
+    <ul>
+      <li>if and only if的分治。</li>
+      <li>集合相等的分治（包含于）。</li>
+    </ul>
+  </li>
+  <li>下标集、幂集、笛卡尔乘积、关系的含义。</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B411.E6.9C.8829.E6.97.A5">2012年11月29日</span></h1>
+<p><a href="/problem_solving/images/c/cf/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC9%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第9次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>关系的性质：自反、反自反、对称、反对称、强反对称、传递、等价。</li>
+  <li>
+    关系的转换。
+    <ul>
+      <li>反对称--&gt;强反对称：去掉(x,x)。</li>
+      <li>问题10.6：对称+传递--&gt;自反？x在关系中不出现（即找不到y）。</li>
+    </ul>
+  </li>
+  <li>等价关系（和等价类）、划分及其一一对应：关系/集合的内涵和外延。</li>
+  <li>
+    界、极值和确界的比较。
+    <ul>
+      <li>数量。</li>
+      <li>是否在集合中。</li>
+    </ul>
+  </li>
+  <li>
+    序。
+    <ul>
+      <li>举例：集合上的“包含”关系是偏序；实数上的“大于等于”关系是全序。</li>
+      <li>哈斯图：偏序哈斯图的必要条件是无回路（自回路除外）；全序哈斯图的核心是一条有向路径。</li>
+    </ul>
+  </li>
+  <li>从数学归纳法推导well-ordering principle of N。</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B412.E6.9C.886.E6.97.A5">2012年12月6日</span></h1>
+<p><a href="/problem_solving/images/8/84/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC10%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第10次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    函数。
+    <ul>
+      <li>基本术语：定义域、陪域、值域、单射、满射、双射。</li>
+      <li>举例：单射非满射；满射非单射；双射。</li>
+    </ul>
+  </li>
+  <li>函数相等：从集合的角度定义。</li>
+  <li>
+    函数相关的证明。
+    <ul>
+      <li>求解函数值域的思路。</li>
+      <li>证明函数是双射的思路。</li>
+    </ul>
+  </li>
+  <li>
+    函数的复合。
+    <ul>
+      <li>复合与单射/满射的关系。</li>
+      <li>举例：f单射、g单射；f单射、g非单射、g◦f单射；f满射、g满射；f非满射、g满射、g◦f满射；f双射、g双射。</li>
+    </ul>
+  </li>
+  <li>恒等函数的性质证明：well-defined；one-to-one；onto；its own inverse（根据函数相等的定义）。</li>
+  <li>
+    函数的像。
+    <ul>
+      <li>f-1(y)和f-1({y})的区别：反函数值和反像。</li>
+      <li>Exercise 16.4的反例。</li>
+    </ul>
+  </li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B412.E6.9C.8813.E6.97.A5">2012年12月13日</span></h1>
+<p><a href="/problem_solving/images/7/75/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC11%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第11次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>数独程序设计答辩。</li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B412.E6.9C.8820.E6.97.A5">2012年12月20日</span></h1>
+<p><a href="/problem_solving/images/b/b8/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-%E7%AC%AC12%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-第12次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    算法方法的应用（0-1背包问题）。
+    <ul>
+      <li>穷举搜索：通过位串（二进制数）实现子集的穷举。</li>
+      <li>带剪枝的穷举搜索。</li>
+      <li>贪心：定义性价比；局部最优。</li>
+      <li>动态规划：定义子问题；全局最优。</li>
+    </ul>
+  </li>
+  <li>
+    程序设计中的错误。
+    <ul>
+      <li>语言错误。</li>
+      <li>逻辑错误：语义错误（=和==的混用）；算法错误。</li>
+    </ul>
+  </li>
+  <li>
+    算法的正确性。
+    <ul>
+      <li>部分正确：if终止then正确（特例：一个死循环程序）。</li>
+      <li>终止。</li>
+      <li>完全正确：部分正确+终止。</li>
+    </ul>
+  </li>
+  <li>
+    算法正确性的一般证明手法。
+    <ul>
+      <li>部分正确：基于checkpoint的局部证明。</li>
+      <li>终止：递减量的收敛。</li>
+    </ul>
+  </li>
+  <li>
+    算法正确性的证明。
+    <ul>
+      <li>选择排序算法：先证内循环、后证外循环，即as-you-go verification。</li>
+      <li>汉诺塔问题的迭代算法：数学归纳法，分奇偶情况讨论。</li>
+    </ul>
+  </li>
+  <li>
+    计算机辅助的算法正确性证明。
+    <ul>
+      <li>interactive verification：计算机辅助的交互式证明。</li>
+      <li>proof checking：计算机自动证明。</li>
+    </ul>
+  </li>
+</ol>
+<h1><span class="mw-headline" id="2012.E5.B9.B412.E6.9C.8827.E6.97.A5">2012年12月27日</span></h1>
+<p><a href="/problem_solving/images/b/bb/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC13%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第13次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    等势和有限集合。
+    <ul>
+      <li>等势的本质：双射。</li>
+      <li>证明集合有限和求解集合的势之间的联系：都是找m。</li>
+      <li>有限集合的子集是有限集合的证明：找双射。</li>
+    </ul>
+  </li>
+  <li>从Exercise 20.13不能推出Z+是有限集合：任意大和无穷大的区别。</li>
+  <li>
+    从有限集合到无限集合。
+    <ul>
+      <li>证明集合无限的基本思路：不是有限。</li>
+      <li>N是无限集合的证明：反证法+鸽巢原理。</li>
+    </ul>
+  </li>
+  <li>
+    可数集合。
+    <ul>
+      <li>可数无限集合的本质：双射到N。</li>
+      <li>定理证明中的双射构造：N的子集；NxN；Q。</li>
+      <li>可数集合的子集是可数集合的证明：找双射。</li>
+    </ul>
+  </li>
+  <li>
+    不可数集合。
+    <ul>
+      <li>证明集合不可数的基本思路：不是可数。</li>
+      <li>R是不可数集合的证明：反证法+构造法。</li>
+    </ul>
+  </li>
+  <li>
+    Metric。
+    <ul>
+      <li>Metric函数的四个特征。</li>
+      <li>集合的距离函数：|(A union B) \ (A intersection B)|，即编辑距离。</li>
+    </ul>
+  </li>
+</ol>
+<h1><span class="mw-headline" id=".E6.9C.80.E5.90.8E.E4.B8.80.E6.AC.A1.E4.BD.9C.E4.B8.9A.E8.AE.B2.E8.A7.A3">最后一次作业讲解</span></h1>
+<p><a href="/problem_solving/images/c/c1/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95-%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F-2%E7%8F%AD-%E7%AC%AC14%E6%AC%A1.pdf" class="internal" title="讨论记录-第一学期-2班-第14次.pdf">[课件下载]</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20190402131123
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.023 seconds
+Real time usage: 0.024 seconds
+Preprocessor visited node count: 54/1000000
+Preprocessor generated node count: 60/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:75-0!*!*!!zh-cn!*!* and timestamp 20190402131123 and revision id 429
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2012级--讨论记录_(第一学期)&amp;oldid=429">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2012级--讨论记录_(第一学期)&amp;oldid=429</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95+%28%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;oldid=429" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2012%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2013年1月11日 (星期五) 23:02。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":48});});</script>
+	</body>
+</html>

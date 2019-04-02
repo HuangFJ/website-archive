@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2013级--学期安排 (第三学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2013级--学期安排_(第三学期)","wgTitle":"2013级--学期安排 (第三学期)","wgCurRevisionId":1571,"wgRevisionId":1571,"wgArticleId":171,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2013级--学期安排_(第三学期)","wgRelevantArticleId":171,"wgRequestId":"94067af54d86a0d9b9876377","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2013级--学期安排_第三学期 rootpage-2013级--学期安排_第三学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2013级--学期安排 (第三学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>目录</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.9F.BA.E6.9C.AC.E8.A6.81.E6.B1.82"><span class="tocnumber">1</span> <span class="toctext">基本要求</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.8C.87.E5.AE.9A.E6.95.99.E6.9D.90"><span class="tocnumber">2</span> <span class="toctext">指定教材</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E6.8E.A8.E8.8D.90.E8.AF.BE.E5.A4.96.E8.AF.BB.E7.89.A9"><span class="tocnumber">3</span> <span class="toctext">推荐课外读物</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E5.AD.A6.E4.B9.A0.E5.91.A8.E5.8E.86"><span class="tocnumber">4</span> <span class="toctext">学习周历</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id=".E5.9F.BA.E6.9C.AC.E8.A6.81.E6.B1.82">基本要求</span></h2>
+<ul>
+  <li>掌握典型应用中抽象出来的重要算法问题的求解方法。</li>
+  <li>理解并能够应用支持上述内容的离散数学工具与方法。</li>
+</ul>
+<p>注意：程序设计能力要求贯穿于整个课程，不再单列。
+</p>
+<h2><span class="mw-headline" id=".E6.8C.87.E5.AE.9A.E6.95.99.E6.9D.90">指定教材</span></h2>
+<ul>
+  <li><b>CS</b>: Cliff Stein et al.: Discrete Mathematics for Computer Scientists, 1st ed. Addison-Wesley, 2010</li>
+  <li><b>DW</b>: Douglas West: Introduction to Graph Theory, 2nd ed. Pearson, 2000</li>
+  <li><b>TC</b>: Thomas Cormen: Introduction to Algorithms, 3rd ed. MIT, 2009</li>
+  <li><b>TJ</b>: Thomas Judson: Abstract Algebra - Theory and Applications, <a rel="nofollow" class="external free" href="http://abstract.ups.edu/">http://abstract.ups.edu/</a></li>
+  <li><b>WS</b>: Walter Savitch: Problem Solving with C++, 7th ed. Addison Wesley, 2008</li>
+  <li><b>CZ</b>: Gary Chartrand, Ping Zhang: Introduction to Graph Theory</li>
+</ul>
+<h2><span class="mw-headline" id=".E6.8E.A8.E8.8D.90.E8.AF.BE.E5.A4.96.E8.AF.BB.E7.89.A9">推荐课外读物</span></h2>
+<ul>
+  <li>Larry Nyhoff: ADTs, Data Structures, and Problem Solving with C++, 2nd ed. Prentice Hall, 2004</li>
+</ul>
+<h2><span class="mw-headline" id=".E5.AD.A6.E4.B9.A0.E5.91.A8.E5.8E.86">学习周历</span></h2>
+<table border="1px">
+  <tr>
+    <th>日期</th>
+    <th>论题</th>
+    <th>学习目的</th>
+    <th>阅读材料</th>
+    <th>引导要点</th>
+    <th>书面作业</th>
+    <th>编程任务</th>
+  </tr>
+  <tr>
+    <td>9.1--9.5</td>
+    <td><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.pdf">3-1：动态规划</a></td>
+    <td>
+      <ul>
+        <li>通过实例掌握动态规划的基本思想与算法设计方法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第15章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>以空间换时间的关键是存储效率</li>
+        <li>动态规划与指数时间的有效降低</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第15.1节练习1、3</li>
+        <li>TC第15.2节练习2、4</li>
+        <li>TC第15.3节练习3、5、6</li>
+        <li>TC第15.4节练习3、5</li>
+        <li>TC第15.5节练习1</li>
+        <li>TC第15章问题4</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>实现矩阵连乘 (<a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Matrix_demo.pdf">代码示例</a>)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9.8-9.12</td>
+    <td><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2013-05-21.pdf">3-2：贪心算法</a></td>
+    <td>
+      <ul>
+        <li>掌握利用贪心策略设计算法的思路与方法</li>
+        <li>掌握用分摊进行算法分析的思想与方法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第16章第1、2、3节</li>
+        <li>TC第17章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>贪心算法的正确性证明</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第16.1节练习2、3</li>
+        <li>TC第16.2节练习1、2</li>
+        <li>TC第16.3节练习2、5、8</li>
+        <li>TC第16章问题1</li>
+        <li>TC第17.1节练习3</li>
+        <li>TC第17.2节练习2</li>
+        <li>TC第17.4节练习1</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Hoffman码 (<a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Huffman.pdf">代码示例</a>)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9.15-9.19</td>
+    <td><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/images/a/ab/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-9-15-%E7%94%A8%E4%BA%8E%E5%8A%A8%E6%80%81%E7%AD%89%E4%BB%B7%E5%85%B3%E7%B3%BB%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf">3-3：用于动态等价关系的数据结构</a></td>
+    <td>
+      <ul>
+        <li>理解动态等价关系的概念以及在问题求解中的意义</li>
+        <li>掌握以union-find为代表的相应数据结构</li>
+        <li>进一步理解抽象数据类型的意义</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第21章</li>
+        <li>SB第2章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>算法分析的困难性</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第21.1节练习2、3</li>
+        <li>TC第21.2节练习1、3、6</li>
+        <li>TC第21.3节练习1、2、3</li>
+        <li>TC第21章问题1</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>编一个程序自动生成迷宫(<a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E5%8F%8D%E9%A6%88-maze_pub.ppt">反馈</a>)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9.15-9.19</td>
+    <td><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/images/e/e5/%E5%9B%BE%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.pdf">3-4：图的基本概念</a></td>
+    <td>
+      <ul>
+        <li>掌握图的基本概念以及图论的基本证明方式</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ(Chartrand/Zhang)第一章；第二章2.1;2.2;2.3;第三章3.1;</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>图论应用的广泛性以及图论证明方法的独特性</li>
+        <li>理解图与关系的联系</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ 练习1.2;1.3;1.11;1.12;1.24;</li>
+        <li>CZ 练习2.1; 2.19;2.31;</li>
+        <li>CZ 练习3.1; 3.2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>WS第11章项目3 (<a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:VectorDouble.pdf">代码示例</a>)</li>
+        <li>WS第11章项目5</li>
+        <li>相关知识 <a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%88%9D%E6%8E%A2.ppt">[1]</a>, <a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E5%8F%8D%E9%A6%88%E2%80%94%E2%80%94%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E2%80%94%E2%80%94%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%8E%E6%93%8D%E4%BD%9C%E7%AC%A6%E9%87%8D%E8%BD%BD.ppt">[2]</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9.22-9.30</td>
+    <td><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/images/2/29/%E8%AE%BA%E9%A2%983-5.pdf">3-5：图的计算机表示以及遍历</a></td>
+    <td>
+      <ul>
+        <li>掌握在计算机中表示图的方式</li>
+        <li>掌握图的深度优先与广度优先遍历方法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第22章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>图表示中形式与效率的关系</li>
+        <li>不同遍历方法的算法意义</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第22.1节练习3、8</li>
+        <li>TC第22.2节练习3、4、5</li>
+        <li>TC第22.3节练习6、7、8、9、12</li>
+        <li>TC第22.4节练习2、3</li>
+        <li>TC第22.5节练习5、7</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>实现深度与广度遍历</li>
+        <li><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E7%BC%96%E7%A8%8B%E5%8F%8D%E9%A6%88(%E5%9B%BE%E7%9A%84%E6%90%9C%E7%B4%A2).ppt">反馈</a></ul>
+    </td>
+  </tr>
+  <tr>
+    <td>10.8-10.10</td>
+    <td>3-6：树<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-10-08-%E6%A0%91.pdf">[3]</a></td>
+    <td>
+      <ul>
+        <li>理解树的基本数学性质</li>
+        <li>掌握用加权树建立数学模型的方法</li>
+        <li>最小生成树算法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ第4章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>树的数学性质在计算机问题求解中的意义</li>
+        <li>理解贪心算法策略在最小生成树问题上的应用</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>练习4.4 4.8 4.14 4.22 4.26 4.28 4.30 4.36</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>WS第14章项目10</li>
+        <li>WS第14章项目11</li>
+        <li>Prim和Kruskal算法</li>
+        <li><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E7%BC%96%E7%A8%8B%E5%8F%8D%E9%A6%88_MST.ppt">反馈</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td>3-7：单源最短通路算法<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-10-13-%E5%8D%95%E6%BA%90%E6%9C%80%E7%9F%AD%E9%80%9A%E8%B7%AF%E7%AE%97%E6%B3%95.pdf">[4]</a>
+<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Dijkstra%E7%AE%97%E6%B3%95%E6%AD%A3%E7%A1%AE%E6%80%A7.pdf">[5]</a></td>
+    <td>
+      <ul>
+        <li>掌握单源最短通路问题的解决方法</li>
+        <li>理解最短通路的数学性质并理解其在正确性证明中的作用</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第24章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>贪心策略在不同算法中的不同体现</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第24.1节练习2、3、4</li>
+        <li>TC第24.2节练习2</li>
+        <li>TC第24.3节练习2、4、7</li>
+        <li>TC第24.5节练习2、5</li>
+        <li>TC第24章问题2、3</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Dijkstra算法 <a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Work_31%E5%8F%8D%E9%A6%88.ppt">work31反馈</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>10.21-10.25</td>
+    <td>3-8：多源最短通路算法 <a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-10-19-%E5%A4%9A%E6%BA%90%E6%9C%80%E7%9F%AD%E9%80%9A%E8%B7%AF%E7%AE%97%E6%B3%95.pdf">[6]</a></td>
+    <td>
+      <ul>
+        <li>掌握多源最短通路问题的解法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第25章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>不同领域表面上完全不同的问题如何归结为同一个模型上的问题</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第25.1节练习4、5、6、9、10</li>
+        <li>TC第25.2节练习2、4、6、8</li>
+        <li>TC第25.3节练习2、3</li>
+        <li>TC第25章问题2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Floyd-Warshall算法 <a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Work_31%E5%8F%8D%E9%A6%88.ppt">work31反馈</a></li>
+      </ul>
+    </td>
+  </tr>
+<tr>
+    <td>10.27-10.31</td>
+    <td>3-9：图中的连通度和距离 <a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-10-27-%E5%9B%BE%E7%9A%84%E8%BF%9E%E9%80%9A%E5%BA%A6.pdf">[7]</a></td>
+    <td>
+      <ul>
+        <li>理解图中连通度和距离的概念与相关理论</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ 5.1-5.4 CZ 12.1 12.2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>图连通性的度量方式及其等效性</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ: 5.4、5.8</li>
+      <li>CZ: 5.10、5.12</li>
+      <li>CZ: 5.18、5.22、5.26</li>
+      <li>CZ: 5.34</li>
+      <li>证明PPT第21页的定理</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Tarjan算法 <a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Work_32.ppt">work32反馈</a></li>
+      </ul>
+    </td>
+  </tr>
+<tr>
+    <td>11.10-11.15</td>
+    <td>3-10：旅行问题 <a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/images/6/61/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3_%E2%80%93_2014-11-05%E5%9B%BE%E4%B8%8A%E7%9A%84%E6%97%85%E8%A1%8C.pdf">[8]</a></td>
+    <td>
+      <ul>
+        <li>哈密尔顿回路问题、TSP问题</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ第6章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>如何针对具体问题建立图模型，并利用图上的“旅行”概念对问题的解进行描述</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ:6.4,6.6，6.10，6.12，6.20</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>图的欧拉性质判定<a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Work_33.ppt">work_33反馈</a></li>
+      </ul>
+    </td>
+  </tr>  
+<tr>
+    <td>11.17-11.22</td>
+    <td>3-11：图中的匹配与覆盖 <a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-11-17-%E5%8C%B9%E9%85%8Dpart1.ppt">part1</a><a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-11-17-%E5%8C%B9%E9%85%8Dpart2.ppt">part2</a></td>
+    <td>
+      <ul>
+        <li>掌握图中匹配与覆盖的概念、关键问题与算法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ第8章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>点与边、匹配与覆盖的对称性</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ 8.3, 8.5, 8.14, 8.16</li>
+        <li>CZ 8.18, 8.21, 8.24</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>匈牙利算法 <a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Work_34(%E6%9C%80%E5%A4%A7%E5%8C%B9%E9%85%8D).ppt">work_34反馈</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td>3-12：最大流算法 <a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3-2014-11-24-%E6%9C%80%E5%A4%A7%E6%B5%81%E7%AE%97%E6%B3%95.ppt">[9]</a></td>
+    <td>
+      <ul>
+        <li>掌握网络最大流问题的算法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第26章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>最大流与最小割集的关系在算法正确性证明中的影响</li>
+        <li>叠加式算法及其分析</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+         <li>TC第26.1节练习1、2、6、7</li>
+        <li>TC第26.2节练习2、6、8、10、12、13</li>
+        <li>TC第26.3节练习3</li>
+        <li>TC第26章问题1、2</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Ford-Fulkerson算法 <a rel="nofollow" class="external text" href="http://cslabcms.nju.edu.cn/problem_solving/index.php/%E6%96%87%E4%BB%B6:Work_35(%E7%BD%91%E7%BB%9C%E6%B5%81).ppt">work_35反馈</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>12.8-12.12</td>
+    <td>3-13：平面图与图着色<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/images/5/56/%E5%B9%B3%E9%9D%A2%E5%9B%BE%E4%B8%8E%E5%9B%BE%E7%9D%80%E8%89%B2.pdf">[10]</a></td>
+    <td>
+      <ul>
+        <li>理解图论中一些著名的问题以及它们在计算机问题求解中的地位，包括图顶点着色问题、平面图等</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ 9.1 9.2， 10.1~10.3</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>图模型应用的广泛性</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>CZ 9.3, 9.5,9.7,9.8</li>
+ <li>CZ 10.2,10.3,10.4,10.5</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li></li>
+        <li></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td>3-14：矩阵计算<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/images/b/ba/%E8%AE%BA%E9%A2%983-14%E7%9F%A9%E9%98%B5%E8%AE%A1%E7%AE%97.pdf">[11]</a></td>
+    <td>
+      <ul>
+        <li>掌握矩阵计算中一些基本问题的算法以及其在线性系统中的应用</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第28章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>线性系统及其在问题求解中的重要性</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第28.1节练习2、3、6、7</li>
+        <li>TC第28.2节练习1、2、3</li>
+        <li>TC第28.3节练习1、3</li>
+        <li>TC第28章问题1</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>LUP decomposition</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td>3-15：线性规划<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/images/b/b4/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92.pdf">[12]</a></td>
+    <td>
+      <ul>
+        <li>掌握线性规划的基本概念，问题描述方式以及基本算法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第29章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>线性规划的意义与适用性</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TC第29.1节练习4、5、6、7、9</li>
+        <li>TC第29.2节练习2、3、6</li>
+        <li>TC第29.3节练习2、3、5</li>
+        <li>TC第29.4节练习2</li>
+        <li>TC第29章问题1</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Simplex算法</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>tbd</td>
+    <td>3-17：群与拉格郎日定理<a rel="nofollow" class="external autonumber" href="http://cslabcms.nju.edu.cn/problem_solving/images/4/47/%E7%BE%A4%E5%92%8C%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E5%AE%9A%E7%90%86.pdf">[13]</a></td>
+    <td>
+      <ul>
+        <li>理解抽象代数结构的基本概念</li>
+        <li>理解群的数学性质以及抽象代数典型推导方法</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>TJ第3、4、5、6章</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>公理化系统的思想</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+         <li>TJ第3章练习3、6、7、17、28、36、38、41、48、52</li>
+        <li>TJ第4章练习1、12、21、24、32</li>
+        <li>TJ第5章练习3、5、16、27、29</li>
+        <li>TJ第6章练习11、12、16、21</li>
+        <li>TJ第9章练习6、7、8、9</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>WS第12章项目1</li>
+        <li>WS第12章项目8</li>
+      </ul>
+    </td>
+  </tr>
+  <tr></tr>
+</table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190402150301
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.026 seconds
+Real time usage: 0.026 seconds
+Preprocessor visited node count: 15/1000000
+Preprocessor generated node count: 22/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:171-0!*!*!!zh-cn!*!* and timestamp 20190402150300 and revision id 1571
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2013级--学期安排_(第三学期)&amp;oldid=1571">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2013级--学期安排_(第三学期)&amp;oldid=1571</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92+%28%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;oldid=1571" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E5%AD%A6%E6%9C%9F%E5%AE%89%E6%8E%92_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2016年9月26日 (星期一) 15:38。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":47});});</script>
+	</body>
+</html>

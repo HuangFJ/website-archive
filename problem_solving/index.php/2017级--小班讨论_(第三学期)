@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2017级--小班讨论 (第三学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2017级--小班讨论_(第三学期)","wgTitle":"2017级--小班讨论 (第三学期)","wgCurRevisionId":3043,"wgRevisionId":3043,"wgArticleId":941,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2017级--小班讨论_(第三学期)","wgRelevantArticleId":941,"wgRequestId":"bf09162afaf0ba8591b5cdc4","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2017级--小班讨论_第三学期 rootpage-2017级--小班讨论_第三学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2017级--小班讨论 (第三学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><h2><span class="mw-headline" id=".E5.AD.A6.E4.B9.A0.E5.91.A8.E5.8E.86">学习周历</span></h2>
+<table border="1">
+<tr>
+<th> 日期
+</th>
+<th> 论题
+</th>
+<th> Open Topics
+<p>(<a href="/problem_solving/images/3/34/Ot-classes.pdf" class="internal" title="Ot-classes.pdf">分班表</a>)
+</p>
+</th>
+<th> 扩展材料 (供感兴趣的同学自学使用)
+</th></tr>
+<tr>
+<td style="width: 80px;"> 2018-09-03
+</td>
+<td>
+<ul><li> 问题求解第二学期期末试卷讲解</li></ul>
+</td>
+<td>
+<ol><li> 排序: <a href="/problem_solving/images/c/c9/1-%E6%9D%8E%E9%A1%B6%E4%B8%BA.pptx" class="internal" title="1-李顶为.pptx"> 李顶为</a></li>
+<li> 凸多边形直径: <a href="/problem_solving/images/e/e4/2-%E6%AF%9B%E4%B8%80%E9%B8%A3.zip" class="internal" title="2-毛一鸣.zip"> 毛一鸣</a></li>
+<li> 随机算法: <a href="/problem_solving/images/e/eb/3-%E9%BB%84%E7%A7%89%E7%84%9C.zip" class="internal" title="3-黄秉焜.zip"> 黄秉焜</a></li>
+<li> 计数: <a href="/problem_solving/images/e/e8/4-%E5%BC%A0%E5%A4%A9%E6%98%80.pdf" class="internal" title="4-张天昀.pdf"> 张天昀</a>                               </li>
+<li> 哈希: <a href="/problem_solving/images/f/ff/5-Hashing.pdf" class="internal" title="5-Hashing.pdf"> 姜勇刚</a>                                                        </li>
+<li> 扩展二叉搜索树: <a href="/problem_solving/images/a/a7/6-%E5%BE%90%E8%87%A3.pptx" class="internal" title="6-徐臣.pptx"> 徐臣</a>                                                                             </li>
+<li> 分治法 kd-tree: <a href="/problem_solving/images/8/8b/7-%E9%84%A2%E6%8C%AF%E5%AE%87.zip" class="internal" title="7-鄢振宇.zip"> 鄢振宇</a></li></ol>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr>
+<tr>
+<td> 2018-09-17
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/8/8b/3-1-dp.pdf" class="internal" title="3-1-dp.pdf"> 3-1-dp (Part I: Examples)</a></li>
+<li> <a href="/problem_solving/images/f/fe/3-1-dp-part1-handout.pdf" class="internal" title="3-1-dp-part1-handout.pdf"> 3-1-dp-handout (Part I: Examples)</a></li></ul>
+</td>
+<td>
+<ul><li> 通信系统</li></ul>
+<ol><li> <a href="/problem_solving/images/f/fa/1-Comm-%E5%90%95%E4%BA%91%E5%93%B2.pptx" class="internal" title="1-Comm-吕云哲.pptx"> 吕云哲</a></li>
+<li> <a href="/problem_solving/images/d/d1/1-Comm-%E8%B0%A2%E9%80%B8.pptx" class="internal" title="1-Comm-谢逸.pptx"> 谢逸</a></li></ol>
+<ul><li> Bitonic euclidean traveling-salesman problem</li></ul>
+<ol><li> <a href="/problem_solving/images/0/06/2-Bitonic-%E8%82%96%E6%B1%9F.pdf" class="internal" title="2-Bitonic-肖江.pdf"> 肖江</a></li>
+<li> <a href="/problem_solving/images/4/44/2-Bitonic-%E5%A7%9C%E5%8B%87%E5%88%9A.pptx" class="internal" title="2-Bitonic-姜勇刚.pptx"> 姜勇刚</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/0/01/Bitonic_Tour_CLRS_Solution.pdf" class="internal" title="Bitonic Tour CLRS Solution.pdf"> Solution to the Bitonic Tour Problem</a></li>
+<li> <a rel="nofollow" class="external text" href="http://qr.ae/TUNEQk">Solving LIS in O(n log n) time</a></li></ul>
+<pre> 学习如何深入浅出地讲解算法。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-09-27
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/a/aa/3-1-dp-part2.pdf" class="internal" title="3-1-dp-part2.pdf"> 3-1-dp (Part II: "Theory")</a></li>
+<li> <a href="/problem_solving/images/6/64/3-1-dp-part2-handout.pdf" class="internal" title="3-1-dp-part2-handout.pdf"> 3-1-dp-handout (Part II: "Theory")</a></li></ul>
+</td>
+<td>
+<ul><li> Huffman Codes</li></ul>
+<ol><li> <a href="/problem_solving/images/e/e1/3-2-Huffman-%E5%BC%A0%E7%81%B5%E6%AF%93.pptx" class="internal" title="3-2-Huffman-张灵毓.pptx"> 张灵毓</a></li></ol>
+<ul><li> Tiling Path</li></ul>
+<ol><li></li>
+<li> 鄢振宇</li></ol>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr>
+<tr>
+<td> 2018-09-29
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/e/e1/3-2-greedy.pdf" class="internal" title="3-2-greedy.pdf"> 3-2-greedy</a></li>
+<li> <a href="/problem_solving/images/7/75/3-2-greedy-handout.pdf" class="internal" title="3-2-greedy-handout.pdf"> 3-2-greedy-handout</a></li></ul>
+</td>
+<td>
+<ul><li> 图中顶点Merge 算法</li></ul>
+<ol><li> <a href="/problem_solving/images/0/05/3-3-Merge-%E5%87%8C%E6%99%A8%E5%AE%87.zip" class="internal" title="3-3-Merge-凌晨宇.zip">凌晨宇</a></li></ol>
+</td>
+<td>
+<ul><li> Chapter 4, Book "Algorithm Design" by Jon Kleinberg and Eva Tardos</li></ul>
+<pre> 更多有些难度的贪心算法。学习如何分析并证明贪心算法的正确性。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-10-08
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/c/c1/3-2-amortized-analysis.pdf" class="internal" title="3-2-amortized-analysis.pdf"> 3-2-amortized-analysis</a></li>
+<li> <a href="/problem_solving/images/c/c1/3-2-amortized-analysis.pdf" class="internal" title="3-2-amortized-analysis.pdf"> 3-2-amortized-analysis-handout</a></li></ul>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/3/31/Amortized_Analysis_Explained_%28Fiebrink%29.pdf" class="internal" title="Amortized Analysis Explained (Fiebrink).pdf"> Amortized Analysis Explained, Princeton, COS423</a></li></ul>
+<pre> 进一步熟悉平摊分析的概念与应用。
+</pre>
+<ul><li> <a href="/problem_solving/images/a/a2/Amortized_Computational_Complexity_%28Robert_Tarjan%2C_1985%29.pdf" class="internal" title="Amortized Computational Complexity (Robert Tarjan, 1985).pdf"> Paper: Amortized Computational Complexity (Robert Tarjan, 1985)</a></li></ul>
+<pre> Robert Tarjan 关于 Amortized Analysis 的论文。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-10-15
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/9/95/3-2-amortized-analysis-part-II.pdf" class="internal" title="3-2-amortized-analysis-part-II.pdf"> 3-2-amortized-analysis-part-II</a></li>
+<li> <a href="/problem_solving/images/2/21/3-2-amortized-analysis-part-II-handout.pdf" class="internal" title="3-2-amortized-analysis-part-II-handout.pdf"> 3-2-amortized-analysis-part-II-handout</a></li></ul>
+</td>
+<td>
+<ul><li> LCA</li></ul>
+<ol><li> <a href="/problem_solving/images/9/9b/3-4-LCA-%E6%9D%9C%E6%98%9F%E4%BA%AE.pdf" class="internal" title="3-4-LCA-杜星亮.pdf"> 杜星亮</a></li>
+<li> <a href="/problem_solving/images/b/ba/3-4-LCA-%E5%BD%AD%E7%BF%94%E5%AE%87.pptx" class="internal" title="3-4-LCA-彭翔宇.pptx"> 彭翔宇</a></li></ol>
+<ul><li> Partition Refinement</li></ul>
+<ol><li> <a href="/problem_solving/images/e/ed/3-4-PartitionRefinement-%E8%A2%81%E5%BD%A6.pptx" class="internal" title="3-4-PartitionRefinement-袁彦.pptx"> 袁彦</a></li>
+<li> <a href="/problem_solving/images/9/9f/3-4-PartitionRefinement-%E9%A9%AC%E5%B8%B8%E9%A3%8E.pptx" class="internal" title="3-4-PartitionRefinement-马常风.pptx"> 马常风</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/d/db/Self-%C2%ADAdjusting_Binary_Search_Trees_%28Rober_Tarjan%2C_JACM85%29.pdf" class="internal" title="Self-­Adjusting Binary Search Trees (Rober Tarjan, JACM85).pdf"> Paper: Self-­Adjusting Binary Search Trees</a></li></ul>
+<pre> Robert Tarjan、Daniel Sleator 关于 Splay Tree 的论文。学习 Splay Tree 数据结构。学习平摊分析技术。
+</pre>
+<ul><li> <a rel="nofollow" class="external text" href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-14-competitive-analysis-self-organizing-lists/">MIT OCW on Self-organizing Lists</a></li></ul>
+<pre> 强烈推荐。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-10-22
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/4/48/3-5-mst.pdf" class="internal" title="3-5-mst.pdf"> 3-5-mst</a></li>
+<li> <a href="/problem_solving/images/0/04/3-5-mst-handout.pdf" class="internal" title="3-5-mst-handout.pdf"> 3-5-mst-handout</a></li></ul>
+</td>
+<td>
+<ul><li> Kruskal 算法和 Prim 算法的实现及其效率</li></ul>
+<ol><li> <a href="/problem_solving/images/4/41/3-5-MST-Complexity-%E8%B0%A2%E4%B9%83%E5%AE%B9.zip" class="internal" title="3-5-MST-Complexity-谢乃容.zip"> 谢乃容</a></li>
+<li> <a href="/problem_solving/images/6/67/3-5-MST-Complexity-%E5%88%98%E6%81%A9%E8%90%8C.pdf" class="internal" title="3-5-MST-Complexity-刘恩萌.pdf"> 刘恩萌</a></li></ol>
+<ul><li> 使用矩阵表示实现最小生成树算法</li></ul>
+<ol><li> <a href="/problem_solving/images/b/ba/3-5-MST-MATRIX-%E4%BD%95%E6%B6%A6%E9%9B%A8.pptx" class="internal" title="3-5-MST-MATRIX-何润雨.pptx"> 何润雨</a></li>
+<li> <a href="/problem_solving/images/e/e8/3-5-MST-Matrix-%E6%AE%B7%E5%85%86%E6%81%92.pptx" class="internal" title="3-5-MST-Matrix-殷兆恒.pptx"> 殷兆恒</a></li></ol>
+</td>
+<td>
+<ul><li> CLRS Chapter 23: Minimum Spanning Trees</li>
+<li> <a rel="nofollow" class="external text" href="https://youtu.be/tKwnms5iRBU">MIT 6.046J Design and Analysis of Algorithms, Spring 2015 (By Erik Demaine)</a></li></ul>
+<pre> 体会不同的讲法。学习MST相关定理的证明技巧。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-10-29
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/2/2e/3-6-graph-decomposition.pdf" class="internal" title="3-6-graph-decomposition.pdf"> 3-6-graph-decomposition</a></li>
+<li> <a href="/problem_solving/images/c/c7/3-6-graph-decomposition-handout.pdf" class="internal" title="3-6-graph-decomposition-handout.pdf"> 3-6-graph-decomposition-handout</a></li></ul>
+</td>
+<td>
+<ul><li> DFS算法及其正确性</li></ul>
+<ol><li> <a href="/problem_solving/images/6/68/3-6-DFS-%E6%A1%91%E7%99%BE%E6%83%A0.pptx" class="internal" title="3-6-DFS-桑百惠.pptx"> 桑百惠</a></li>
+<li> <a href="/problem_solving/images/d/d1/3-6-DFS-%E6%A2%81%E5%AE%87%E6%96%B9.zip" class="internal" title="3-6-DFS-梁宇方.zip"> 梁宇方</a></li></ol>
+<ul><li> SCC算法正确性</li></ul>
+<ol><li> <a href="/problem_solving/images/1/14/3-6-SCC-%E7%8E%8B%E8%85%BE.pptx" class="internal" title="3-6-SCC-王腾.pptx"> 王腾</a> </li>
+<li> <a href="/problem_solving/images/2/24/3-6-SCC-%E9%83%91%E5%A5%98%E5%B7%8D.pdf" class="internal" title="3-6-SCC-郑奘巍.pdf"> 郑奘巍</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/6/69/Depth-First_Search_and_Linear_Graph_Algorithms_%28Tarjan_SIAM_1972%29.pdf" class="internal" title="Depth-First Search and Linear Graph Algorithms (Tarjan SIAM 1972).pdf"> Paper: Depth-First Search and Linear Graph Algorithms (Tarjan SIAM 1972)</a></li></ul>
+<pre> Robert Tarjan 关于 DFS 在图算法中的应用的经典论文
+</pre>
+</td></tr>
+<tr>
+<td> 2018-11-05
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/1/14/3-6-graph-decomposition-part-II.pdf" class="internal" title="3-6-graph-decomposition-part-II.pdf"> 3-6-graph-decomposition-part-II</a></li>
+<li> <a href="/problem_solving/images/8/87/3-6-graph-decomposition-part-II-handout.pdf" class="internal" title="3-6-graph-decomposition-part-II-handout.pdf"> 3-6-graph-decomposition-part-II-handout</a></li></ul>
+</td>
+<td>
+<ul><li> Bellman-Ford 算法输出负权环</li></ul>
+<ol><li> <a href="/problem_solving/images/d/d0/3-7-BellmanForm-%E5%BC%A0%E5%A4%A9%E6%98%80.pdf" class="internal" title="3-7-BellmanForm-张天昀.pdf"> 张天昀</a></li>
+<li> <a href="/problem_solving/images/f/f4/3-7-BellmanFord-%E4%B8%81%E4%BF%9D%E8%8D%A3.pdf" class="internal" title="3-7-BellmanFord-丁保荣.pdf"> 丁保荣</a></li></ol>
+<ul><li> 使用 Fibonacci Heap 的 Dijkstra 算法的复杂度分析</li></ul>
+<ol><li> <a href="/problem_solving/images/c/c8/3-7-DijkstraFibHeap-%E6%AF%9B%E4%B8%80%E9%B8%A3.zip" class="internal" title="3-7-DijkstraFibHeap-毛一鸣.zip"> 毛一鸣</a></li>
+<li> <a href="/problem_solving/images/f/ff/3-7-DijkstraFibHeap-%E6%9D%8E%E9%A1%B6%E4%B8%BA.pptx" class="internal" title="3-7-DijkstraFibHeap-李顶为.pptx"> 李顶为</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/6/69/Depth-First_Search_and_Linear_Graph_Algorithms_%28Tarjan_SIAM_1972%29.pdf" class="internal" title="Depth-First Search and Linear Graph Algorithms (Tarjan SIAM 1972).pdf"> Paper: Depth-First Search and Linear Graph Algorithms (Tarjan SIAM 1972)</a></li></ul>
+<pre> Robert Tarjan's Bicomponent Algorithm
+</pre>
+</td></tr>
+<tr>
+<td> 2018-11-12
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/3/33/3-7-sssp.pdf" class="internal" title="3-7-sssp.pdf"> 3-7-sssp</a></li>
+<li> <a href="/problem_solving/images/d/da/3-7-sssp-handout.pdf" class="internal" title="3-7-sssp-handout.pdf"> 3-7-sssp-handout</a></li></ul>
+</td>
+<td>
+<ul><li> Floyd-Warshall 算法输出最短路径</li></ul>
+<ol><li> <a href="/problem_solving/images/7/72/3-8-FloydWarshall-%E5%91%A8%E6%B5%B7%E6%B3%A2.pptx" class="internal" title="3-8-FloydWarshall-周海波.pptx"> 周海波</a></li>
+<li> <a href="/problem_solving/images/d/d6/3-8-FloydWarshall-%E6%9D%8E%E5%87%AF%E6%97%AD.pptx" class="internal" title="3-8-FloydWarshall-李凯旭.pptx"> 李凯旭</a></li></ol>
+<ul><li> 炼钢厂选址</li></ul>
+<ol><li> <a href="/problem_solving/images/8/85/3-8-Location-%E5%BE%90%E8%87%A3.pptx" class="internal" title="3-8-Location-徐臣.pptx"> 徐臣</a></li>
+<li> <a href="/problem_solving/images/e/eb/3-8-Location-%E5%8C%A1%E8%88%92%E7%A3%8A.pptx" class="internal" title="3-8-Location-匡舒磊.pptx"> 匡舒磊</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/e/e0/An_Interview_with_Edsger_W._Dijkstra_%28CACM_2010%29.pdf" class="internal" title="An Interview with Edsger W. Dijkstra (CACM 2010).pdf"> An Interview with Edsger W. Dijkstra (CACM 2010).pdf</a></li></ul>
+</td></tr>
+<tr>
+<td> 2018-11-19
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/4/43/3-8-apsp.pdf" class="internal" title="3-8-apsp.pdf"> 3-8-apsp</a></li>
+<li> <a href="/problem_solving/images/9/9a/3-8-apsp-handout.pdf" class="internal" title="3-8-apsp-handout.pdf"> 3-8-apsp-handout</a></li></ul>
+</td>
+<td>
+<ul><li> Block 算法</li></ul>
+<ol><li> </li>
+<li> <a href="/problem_solving/images/d/db/3-9-Block-%E6%AF%95%E7%A7%8B%E5%AE%87.zip" class="internal" title="3-9-Block-毕秋宇.zip"> 毕秋宇</a></li></ol>
+<ul><li> 证明 Harary 图是r-连通的。</li></ul>
+<ol><li> <a href="/problem_solving/images/9/95/3-9-HararyGraph-%E9%BB%84%E7%A7%89%E7%84%9C.pdf" class="internal" title="3-9-HararyGraph-黄秉焜.pdf"> 黄秉焜</a></li>
+<li> </li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/7/77/Cubic_Hardness_and_All-Pair_Shortest_Paths_%28Algorithmic_Lower_Bounds%2C_Lecture_Note%2C_2014%29.pdf" class="internal" title="Cubic Hardness and All-Pair Shortest Paths (Algorithmic Lower Bounds, Lecture Note, 2014).pdf"> Cubic Hardness and All-Pair Shortest Paths (Algorithmic Lower Bounds, Lecture Note, 2014).pdf</a></li></ul>
+<pre> 所有点对之间的最短路径问题的下界
+</pre>
+</td></tr>
+<tr>
+<td> 2018-11-26
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/f1/3-9-connectivity-part-I.pdf" class="internal" title="3-9-connectivity-part-I.pdf"> 3-9-connectivity-part-I</a></li>
+<li> <a href="/problem_solving/images/c/c4/3-9-connectivity-part-I-handout.pdf" class="internal" title="3-9-connectivity-part-I-handout.pdf"> 3-9-connectivity-part-I-handout</a></li></ul>
+</td>
+<td>
+<ul><li> 竞赛图</li></ul>
+<ol><li> <a href="/problem_solving/images/e/ed/3-10-Hamilton-%E4%BD%95%E4%BC%9F.pptx" class="internal" title="3-10-Hamilton-何伟.pptx"> 何伟</a></li>
+<li> <a href="/problem_solving/images/7/76/3-10-Hamilton-%E6%AE%B7%E5%A4%A9%E6%B6%A6.pptx" class="internal" title="3-10-Hamilton-殷天润.pptx"> 殷天润</a></li></ol>
+<ul><li> 循环赛排名方法</li></ul>
+<ol><li> <a href="/problem_solving/images/8/8e/3-10-Rank-%E5%AD%99%E6%97%AD%E4%B8%9C.pptx" class="internal" title="3-10-Rank-孙旭东.pptx"> 孙旭东</a></li>
+<li> <a href="/problem_solving/images/e/ee/3-10-Rank-%E6%9D%8E%E5%8D%9A%E6%96%87.pptx" class="internal" title="3-10-Rank-李博文.pptx"> 李博文</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/d/df/Connectivity_Algorithms_%28cse.msu.edu%29.pdf" class="internal" title="Connectivity Algorithms (cse.msu.edu).pdf"> Connectivity Algorithms (cse.msu.edu).pdf</a></li></ul>
+<pre> 关于连通度的算法。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-12-03
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/a/ac/3-9-connectivity-part-II.pdf" class="internal" title="3-9-connectivity-part-II.pdf"> 3-9-connectivity-part-II: Menger Theorem</a></li>
+<li> <a href="/problem_solving/images/d/d4/3-9-connectivity-part-II-handout.pdf" class="internal" title="3-9-connectivity-part-II-handout.pdf"> 3-9-connectivity-part-II-handout: Menger Theorem</a></li></ul>
+<ul><li> <a href="/problem_solving/images/c/cb/3-10-traversability-part-I.pdf" class="internal" title="3-10-traversability-part-I.pdf"> 3-10-traversability-part-I: Eulerian Graphs</a></li>
+<li> <a href="/problem_solving/images/4/47/3-10-traversability-part-I-handout.pdf" class="internal" title="3-10-traversability-part-I-handout.pdf"> 3-10-traversability-part-I-handout: Eulerian Graphs</a></li></ul>
+</td>
+<td>
+<ul><li> 点独立与点覆盖</li></ul>
+<ol><li> <a href="/problem_solving/images/b/be/3-11-Cover-%E5%88%98%E5%AF%92.pptx" class="internal" title="3-11-Cover-刘寒.pptx"> 刘寒</a></li>
+<li> <a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6&amp;wpDestFile=3-11-Cover-%E9%9F%A9%E5%8D%9A.pptx" class="new" title="3-11-Cover-韩博.pptx"> 韩博</a></li></ol>
+<ul><li> 点独立与点覆盖</li></ul>
+<ol><li> <a href="/problem_solving/images/f/f3/3-11-Konig-%E6%9D%A8%E6%AC%A3%E7%84%B6.pptx" class="internal" title="3-11-Konig-杨欣然.pptx"> 杨欣然</a></li></ol>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr>
+<tr>
+<td> 2018-12-10
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/e/ea/3-10-traversability-part-II.pdf" class="internal" title="3-10-traversability-part-II.pdf"> 3-10-traversability-part-II: Hamiltonian Graphs</a></li>
+<li> <a href="/problem_solving/images/c/ce/3-10-traversability-part-II-handout.pdf" class="internal" title="3-10-traversability-part-II-handout.pdf"> 3-10-traversability-part-II-handout: Hamiltonian Graphs</a></li>
+<li> <a href="/problem_solving/images/f/f1/3-11-matchings-factors-part-I.pdf" class="internal" title="3-11-matchings-factors-part-I.pdf"> 3-11-matchings-factors-part-I: Matchings and Covers</a></li>
+<li> <a href="/problem_solving/images/4/43/3-11-matchings-factors-part-I-handout.pdf" class="internal" title="3-11-matchings-factors-part-I-handout.pdf"> 3-11-matchings-factors-part-I-handout: Matchings and Covers</a></li></ul>
+</td>
+<td>
+<ul><li> Ford-Fulkerson's Labeling Algorithm</li></ul>
+<ol><li> <a href="/problem_solving/images/4/48/3-12-FordFulkerson-%E5%BC%A0%E6%A2%93%E6%82%A6.pptx" class="internal" title="3-12-FordFulkerson-张梓悦.pptx"> 张梓悦</a></li>
+<li> <a href="/problem_solving/images/f/f2/3-12-FordFulkerson-%E5%91%A8%E6%B6%9B.pdf" class="internal" title="3-12-FordFulkerson-周涛.pdf"> 周涛</a></li></ol>
+<ul><li> 利用最大流算法证明 Hall 定理</li></ul>
+<ol><li> <a href="/problem_solving/images/8/86/3-12-NetworkFlowHall-%E8%A3%B4%E4%B8%80%E5%87%A1.pdf" class="internal" title="3-12-NetworkFlowHall-裴一凡.pdf"> 裴一凡</a></li>
+<li> <a href="/problem_solving/images/5/5a/3-12-NetworkFlowHall-%E8%91%A3%E6%9D%A8%E9%9D%99.pdf" class="internal" title="3-12-NetworkFlowHall-董杨静.pdf"> 董杨静</a></li></ol>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Stable_marriage_problem">Stable marriage problem (wiki)</a></li>
+<li> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Qcv1IqHWAzg">Stable Marriage Problem@Numberphile@YouTube</a></li></ul>
+<pre> 有意思的 Stable Matching Problem
+</pre>
+</td></tr>
+<tr>
+<td> 2018-12-17
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/5/55/3-12-network-flow.pptx" class="internal" title="3-12-network-flow.pptx"> 3-12-network-flow.pptx</a></li></ul>
+</td>
+<td>
+<ul><li> Brooks 定理</li></ul>
+<ol><li> <a href="/problem_solving/images/6/69/3-13-Brooks-%E5%BC%A0%E5%BB%B7%E6%98%8A.pptx" class="internal" title="3-13-Brooks-张廷昊.pptx"> 张廷昊</a>、<a href="/problem_solving/images/c/c7/3-13-Brooks-%E8%A3%B4%E6%98%8E%E4%BA%AE.pdf" class="internal" title="3-13-Brooks-裴明亮.pdf"> 裴明亮</a></li>
+<li> <a href="/problem_solving/images/6/60/3-13-Brooks-%E9%AB%98%E5%A4%A9%E6%9C%97-%E9%82%B1%E5%87%AF.pptx" class="internal" title="3-13-Brooks-高天朗-邱凯.pptx"> 高天朗、邱凯</a></li></ol>
+<ul><li> Martin Gardner</li></ul>
+<ol><li> <a href="/problem_solving/images/e/eb/3-13-MartinGardner-%E8%B5%B5%E6%96%B0%E6%A6%86.pptx" class="internal" title="3-13-MartinGardner-赵新榆.pptx"> 赵新榆</a></li>
+<li> <a href="/problem_solving/images/f/fb/3-13-MartinGardner-%E5%85%B0%E5%85%86%E7%82%9C.pdf" class="internal" title="3-13-MartinGardner-兰兆炜.pdf"> 兰兆炜</a></li></ol>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr>
+<tr>
+<td> 2018-12-24
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/d/dd/3-11-matchings-factors-part-II.pdf" class="internal" title="3-11-matchings-factors-part-II.pdf"> 3-11-matchings-factors-part-II: Perfect Matchings</a></li>
+<li> <a href="/problem_solving/images/1/1b/3-11-matchings-factors-part-II-handout.pdf" class="internal" title="3-11-matchings-factors-part-II-handout.pdf"> 3-11-matchings-factors-part-II-handout: Perfect Matchings</a></li></ul>
+</td>
+<td>
+<ul><li> LUP 分解算法的正确性</li></ul>
+<ol><li> <a href="/problem_solving/images/0/04/3-14-LUP-Correctness-%E5%BB%96%E7%8E%BA%E7%84%B6.pptx" class="internal" title="3-14-LUP-Correctness-廖玺然.pptx"> 廖玺然</a></li>
+<li> <a href="/problem_solving/images/a/af/3-14-LUP-Correctness-%E9%99%B6%E7%BB%8D%E8%AF%9A.pptx" class="internal" title="3-14-LUP-Correctness-陶绍诚.pptx"> 陶绍诚</a></li></ol>
+<ul><li> LUP 分解求矩阵的行列式</li></ul>
+<ol><li> <a href="/problem_solving/images/e/e5/3-14-LUP-Det-%E5%BC%A0%E6%89%AC%E6%92%AD.pdf" class="internal" title="3-14-LUP-Det-张扬播.pdf"> 张扬播</a></li>
+<li> <a href="/problem_solving/images/b/b1/3-14-LUP-Det-%E9%A1%BE%E5%AE%AC.zip" class="internal" title="3-14-LUP-Det-顾宬.zip"> 顾宬</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/0/0b/Matching_Euler_Tours_and_the_Chinese_Postman_%28Jack_Edmonds-Johnson%2C_1973%29.pdf" class="internal" title="Matching Euler Tours and the Chinese Postman (Jack Edmonds-Johnson, 1973).pdf"> Matching Euler Tours and the Chinese Postman (Jack Edmonds-Johnson, 1973).pdf</a></li></ul>
+<pre>Page 92、Page 93: 利用 Perfect Matching 解决 Chinese Postman Problem。
+</pre>
+<ul><li> <a href="/problem_solving/images/4/42/Shortest_Path_Algorithms_%28math.sfu.ca%2C_Math_408%2C_Luis_Goddyn%29.pdf" class="internal" title="Shortest Path Algorithms (math.sfu.ca, Math 408, Luis Goddyn).pdf"> Shortest Path Algorithms (math.sfu.ca, Math 408, Luis Goddyn).pdf</a></li></ul>
+<pre>利用 Perfect Matching 求无向图(允许有负权边，但不允许有负圈)中的最短简单路径。
+WARNING: 内有少量笔误，把它们找出来吧; 里面还有大量未加证明的论述，把它们证明了吧。然后，你就算真得懂了。
+</pre>
+</td></tr>
+<tr>
+<td> 2018-12-29
+</td>
+<td>
+<ul><li> 平面图与点着色</li></ul>
+</td>
+<td>
+<ul><li> CZ 9.8、CZ 10.5</li></ul>
+<ol><li> <a href="/problem_solving/images/0/07/3-15-HW-%E6%88%B4%E8%8B%A5%E7%9F%B3.pdf" class="internal" title="3-15-HW-戴若石.pdf"> 戴若石</a></li></ol>
+<ul><li> CZ Theorem 10.10</li></ul>
+<ol><li> <a href="/problem_solving/images/6/6d/3-15-Coloring-%E9%99%88%E6%98%B1%E5%90%8D.zip" class="internal" title="3-15-Coloring-陈昱名.zip"> 陈昱名</a></li></ol>
+<ul><li> Dilworth Theorem</li></ul>
+<ol><li> <a href="/problem_solving/images/f/f2/3-15-DilworthTheorem-%E6%AE%B7%E5%85%86%E6%81%92.zip" class="internal" title="3-15-DilworthTheorem-殷兆恒.zip"> 殷兆恒</a></li>
+<li> 张博乔 （取消）</li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/1/16/Equivalence_of_Seven_Major_Theorems_in_Combinatorics_%28Robert_Borgersen%2C_2004%29.pdf" class="internal" title="Equivalence of Seven Major Theorems in Combinatorics (Robert Borgersen, 2004).pdf"> Equivalence of Seven Major Theorems in Combinatorics (Robert Borgersen, 2004).pdf</a></li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190402130959
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.077 seconds
+Preprocessor visited node count: 2/1000000
+Preprocessor generated node count: 8/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:941-0!*!*!*!*!*!* and timestamp 20190402130959 and revision id 3043
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2017级--小班讨论_(第三学期)&amp;oldid=3043">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2017级--小班讨论_(第三学期)&amp;oldid=3043</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA+%28%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;oldid=3043" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%89%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2019年1月2日 (星期三) 10:31。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":48});});</script>
+	</body>
+</html>

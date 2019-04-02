@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2017级--小班讨论 (第一学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2017级--小班讨论_(第一学期)","wgTitle":"2017级--小班讨论 (第一学期)","wgCurRevisionId":2287,"wgRevisionId":2287,"wgArticleId":675,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2017级--小班讨论_(第一学期)","wgRelevantArticleId":675,"wgRequestId":"1d5a7afcfb3c4b07bfebb905","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2017级--小班讨论_第一学期 rootpage-2017级--小班讨论_第一学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2017级--小班讨论 (第一学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>目录</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#2017.E5.B9.B410.E6.9C.8809.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">1</span> <span class="toctext">2017年10月09日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3"><span class="tocnumber">1.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.E6.8A.A5.E5.91.8A"><span class="tocnumber">1.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#2017.E5.B9.B410.E6.9C.8816.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">2</span> <span class="toctext">2017年10月16日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_2"><span class="tocnumber">2.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.E6.8A.A5.E5.91.8A_2"><span class="tocnumber">2.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#2017.E5.B9.B410.E6.9C.8823.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">3</span> <span class="toctext">2017年10月23日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_3"><span class="tocnumber">3.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E6.8A.A5.E5.91.8A_3"><span class="tocnumber">3.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#2017.E5.B9.B410.E6.9C.8830.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">4</span> <span class="toctext">2017年10月30日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_4"><span class="tocnumber">4.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.E6.8A.A5.E5.91.8A_4"><span class="tocnumber">4.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#2017.E5.B9.B411.E6.9C.8806.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">5</span> <span class="toctext">2017年11月06日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_5"><span class="tocnumber">5.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.E6.8A.A5.E5.91.8A_5"><span class="tocnumber">5.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#2017.E5.B9.B411.E6.9C.8813.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">6</span> <span class="toctext">2017年11月13日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_6"><span class="tocnumber">6.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#.E6.8A.A5.E5.91.8A_6"><span class="tocnumber">6.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#2017.E5.B9.B411.E6.9C.8816.E6.97.A5_.28.E5.91.A8.E5.9B.9B.29"><span class="tocnumber">7</span> <span class="toctext">2017年11月16日 (周四)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_7"><span class="tocnumber">7.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#.E6.8A.A5.E5.91.8A_7"><span class="tocnumber">7.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#2017.E5.B9.B411.E6.9C.8827.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">8</span> <span class="toctext">2017年11月27日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_8"><span class="tocnumber">8.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#.E6.8A.A5.E5.91.8A_8"><span class="tocnumber">8.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#2017.E5.B9.B412.E6.9C.8804.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">9</span> <span class="toctext">2017年12月04日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_9"><span class="tocnumber">9.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#.E6.8A.A5.E5.91.8A_9"><span class="tocnumber">9.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#2017.E5.B9.B412.E6.9C.8811.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">10</span> <span class="toctext">2017年12月11日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_10"><span class="tocnumber">10.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#.E6.8A.A5.E5.91.8A_10"><span class="tocnumber">10.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#2017.E5.B9.B412.E6.9C.8818.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">11</span> <span class="toctext">2017年12月18日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_11"><span class="tocnumber">11.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#.E6.8A.A5.E5.91.8A_11"><span class="tocnumber">11.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-34"><a href="#2017.E5.B9.B412.E6.9C.8825.E6.97.A5_.28.E5.91.A8.E4.B8.80.29"><span class="tocnumber">12</span> <span class="toctext">2017年12月25日 (周一)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-35"><a href="#.E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_12"><span class="tocnumber">12.1</span> <span class="toctext">习题讲解</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#.E6.8A.A5.E5.91.8A_12"><span class="tocnumber">12.2</span> <span class="toctext">报告</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="2017.E5.B9.B410.E6.9C.8809.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年10月09日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3">习题讲解</span></h2>
+<p>(1-1作业; 无PPT)
+</p>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A">报告</span></h2>
+<p>主题：1-1 (为什么计算机能解题?)
+</p>
+<ul><li> <a href="/problem_solving/images/3/3a/10.9_%E6%8A%A5%E5%91%8A_Debug%E4%BB%8B%E7%BB%8D.zip" class="internal" title="10.9 报告 Debug介绍.zip"> Debug 介绍</a> (郑奘巍, 李顶为)</li>
+<li> <a href="/problem_solving/images/3/31/Hanoi_tower.zip" class="internal" title="Hanoi tower.zip"> 递归介绍 (Tower of Hanoi)</a> (徐臣, 姜勇刚)</li></ul>
+<h1><span class="mw-headline" id="2017.E5.B9.B410.E6.9C.8816.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年10月16日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_2">习题讲解</span></h2>
+<p><a href="/problem_solving/images/0/0e/1-2-logic-I.pdf" class="internal" title="1-2-logic-I.pdf"> 1-2-logic-I.pdf</a> (<a href="/problem_solving/images/f/f9/1-2-logic-I-handout.pdf" class="internal" title="1-2-logic-I-handout.pdf">1-2-logic-I-handout.pdf</a>)
+</p><p>UD 第2章、第3章习题选讲 (命题逻辑部分)
+</p>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_2">报告</span></h2>
+<p>主题：1-2 (什么样的推理是正确的?)
+</p>
+<ul><li> 合取范式与析取范式 <a href="/problem_solving/images/8/80/1-2%E5%90%88%E5%8F%96%E8%8C%83%E5%BC%8F%E6%9E%90%E5%8F%96%E8%8C%83%E5%BC%8F.zip" class="internal" title="1-2合取范式析取范式.zip"> 1-2-合取范式析取范式 (黄秉焜 张天昀)</a></li>
+<li> 形式化描述 <a href="/problem_solving/images/d/d4/1-2-%E8%B0%93%E8%AF%8D%E9%80%BB%E8%BE%91-%E7%8C%AB%E8%AE%BA.zip" class="internal" title="1-2-谓词逻辑-猫论.zip"> 1-2-谓词逻辑-猫论 (肖江 吕云哲)</a></li></ul>
+<h1><span class="mw-headline" id="2017.E5.B9.B410.E6.9C.8823.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年10月23日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_3">习题讲解</span></h2>
+<p><a href="/problem_solving/images/3/3e/1-2-logic-II.pdf" class="internal" title="1-2-logic-II.pdf"> 1-2-logic-II.pdf</a> (<a href="/problem_solving/images/8/85/1-2-logic-II-handout.pdf" class="internal" title="1-2-logic-II-handout.pdf">1-2-logic-II-handout.pdf</a>)
+</p><p>UD 第四章 (一阶谓词逻辑部分)
+</p>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_3">报告</span></h2>
+<p>主题：1-3 (常用的证明方法)
+</p>
+<ul><li> 数学归纳法与良序原理的等价性 <a href="/problem_solving/images/a/a9/1-3-%E6%9D%8E%E5%8D%9A%E6%96%87-%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E5%BD%92%E7%BA%B3%E6%B3%95%E5%92%8C%E8%89%AF%E5%BA%8F%E5%8E%9F%E7%90%86%E7%AD%89%E4%BB%B7.pptx" class="internal" title="1-3-李博文-证明数学归纳法和良序原理等价.pptx"> 1-3-李博文-证明数学归纳法和良序原理等价.pptx</a></li>
+<li> Chomp Game <a href="/problem_solving/images/3/3b/1-3-%E9%A9%AC%E5%B8%B8%E9%A3%8E-Chomp-Game.pptx" class="internal" title="1-3-马常风-Chomp-Game.pptx"> 1-3-马常风-Chomp-Game.pptx</a> (殷兆恒文档 待上传)</li></ul>
+<h1><span class="mw-headline" id="2017.E5.B9.B410.E6.9C.8830.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年10月30日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_4">习题讲解</span></h2>
+<p><a href="/problem_solving/images/6/6b/1-3-proof.pdf" class="internal" title="1-3-proof.pdf"> 1-3-proof.pdf</a> (<a href="/problem_solving/images/4/45/1-3-proof-handout.pdf" class="internal" title="1-3-proof-handout.pdf">1-3-proof-handout.pdf</a>)
+</p>
+<ul><li> UD第5章 (证明方法)</li>
+<li> UD第17章 (数学归纳法)</li>
+<li> ES第24节 (鸽巢原理)</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_4">报告</span></h2>
+<p>主题：1-4 (基本的算法结构) 
+</p>
+<ul><li> "Goto" Paper 讲解 [毕秋宇、陈昱名]</li></ul>
+<p>(<a href="/problem_solving/images/e/ee/%E5%85%B3%E4%BA%8Egoto_statement_considered_harmful%E7%9A%84%E6%B5%85%E9%99%8B%E8%A7%81%E8%A7%A3.pdf" class="internal" title="关于goto statement considered harmful的浅陋见解.pdf">1-4-goto-paper</a>)
+</p>
+<ul><li> "if&amp;goto" 模拟其它语句 </li></ul>
+<p>(<a href="/problem_solving/images/a/a9/1-4-goto-if-simulation-%E8%B0%A2%E4%B9%83%E5%AE%B9.pdf" class="internal" title="1-4-goto-if-simulation-谢乃容.pdf">1-4-goto-if-simulation-谢乃容</a>, <a href="/problem_solving/images/1/17/1-4-open-topic-2-%E5%BB%96%E7%8E%BA%E7%84%B6-171860647.pptx" class="internal" title="1-4-open-topic-2-廖玺然-171860647.pptx">1-4-open-topic-2-廖玺然-171860647.pptx</a>)
+</p>
+<h1><span class="mw-headline" id="2017.E5.B9.B411.E6.9C.8806.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年11月06日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_5">习题讲解</span></h2>
+<p><a href="/problem_solving/images/b/bb/1-4-program.pdf" class="internal" title="1-4-program.pdf"> 1-4-program.pdf</a> (<a href="/problem_solving/images/1/10/1-4-program-handout.pdf" class="internal" title="1-4-program-handout.pdf">1-4-program-handout.pdf</a>)
+</p>
+<ul><li> 最长单调子序列</li>
+<li> DH 第二章第一二单元</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_5">报告</span></h2>
+<p>主题：1-5 (数据与数据结构)
+</p>
+<ul><li> Union 结构 (<a href="/problem_solving/images/9/9b/1-5-open-topic-union-%E4%B8%81%E4%BF%9D%E8%8D%A3.pdf" class="internal" title="1-5-open-topic-union-丁保荣.pdf"> 1-5-open-topic-union-丁保荣.pdf</a>, <a href="/problem_solving/images/b/b2/1-5-open-topic-union-main.pdf" class="internal" title="1-5-open-topic-union-main.pdf">1-5-open-topic-union-main.pdf</a>)</li>
+<li> 表达式树 (<a href="/problem_solving/images/0/07/1-5-%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%A0%91-%E5%BC%A0%E5%BB%B7%E6%98%8A.pptx" class="internal" title="1-5-表达式树-张廷昊.pptx"> 1-5-表达式树-张廷昊.pptx</a>, <a href="/problem_solving/images/c/ce/1-5-%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%A0%91%E6%9E%84%E5%BB%BA%E5%AE%9E%E4%BE%8B%E4%B8%8E%E6%89%A9%E5%B1%95-%E6%9D%9C%E6%98%9F%E4%BA%AE.pptx" class="internal" title="1-5-表达式树构建实例与扩展-杜星亮.pptx">1-5-表达式树构建实例与扩展-杜星亮.pptx</a>)</li></ul>
+<h1><span class="mw-headline" id="2017.E5.B9.B411.E6.9C.8813.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年11月13日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_6">习题讲解</span></h2>
+<p><a href="/problem_solving/images/7/76/1-5-data-structure-I.pdf" class="internal" title="1-5-data-structure-I.pdf"> 1-5-data-structure-I.pdf 修订版</a> (<a href="/problem_solving/images/5/52/1-5-data-structure-I-handout.pdf" class="internal" title="1-5-data-structure-I-handout.pdf">1-5-data-structure-I-handout.pdf</a>)
+</p>
+<ul><li> Generating All Permutations</li>
+<li> Stackable Permutations</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_6">报告</span></h2>
+<p>主题：1-6 (如何将算法告诉计算机)
+</p>
+<ul><li> 形式语言与自动机 (姜勇刚 郑奘巍)</li></ul>
+<p>(<a href="/problem_solving/images/a/a1/%E8%87%AA%E5%8A%A8%E6%9C%BA%E4%B8%8E%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80.pptx" class="internal" title="自动机与形式语言.pptx"> 自动机与形式语言.pptx</a>, <a href="/problem_solving/images/7/76/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%8E%E7%8A%B6%E6%80%81%E8%87%AA%E5%8A%A8%E6%9C%BA.pdf" class="internal" title="正则表达式与状态自动机.pdf">正则表达式与状态自动机.pdf</a>)
+</p>
+<h1><span class="mw-headline" id="2017.E5.B9.B411.E6.9C.8816.E6.97.A5_.28.E5.91.A8.E5.9B.9B.29">2017年11月16日 (周四)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_7">习题讲解</span></h2>
+<ul><li> Stackable Permutations （证明；课件见 11月13日 习题课）</li>
+<li> Generating All Permutations (<a href="/problem_solving/images/2/22/Permutation_Generation.pptx" class="internal" title="Permutation Generation.pptx"> Permutation Generation.pptx</a>)</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_7">报告</span></h2>
+<p>主题：1-6 (如何将算法告诉计算机)
+</p>
+<ul><li> Switch 语句文法 (<a href="/problem_solving/images/a/a6/Switch-BNF-%E9%9F%A9%E5%8D%9A.pptx" class="internal" title="Switch-BNF-韩博.pptx"> Switch-BNF-韩博.pptx</a>)</li></ul>
+<h1><span class="mw-headline" id="2017.E5.B9.B411.E6.9C.8827.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年11月27日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_8">习题讲解</span></h2>
+<p><a href="/problem_solving/images/6/6b/1-5-data-structure-II.pdf" class="internal" title="1-5-data-structure-II.pdf">1-5-data-structure-II.pdf</a> (<a href="/problem_solving/images/7/78/1-5-data-structure-II-handout.pdf" class="internal" title="1-5-data-structure-II-handout.pdf">1-5-data-structure-II-handout.pdf</a>)
+</p>
+<ul><li> Queueable Permutations</li>
+<li> Treesort Algorithm on BST</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_8">报告</span></h2>
+<p>主题：1-7 (不同的程序设计方法)
+</p>
+<ul><li> Turing Machine （杨欣然 郑奘巍）</li></ul>
+<p><a href="/problem_solving/images/3/39/%E5%9B%BE%E7%81%B5%E6%9C%BA%E6%A8%A1%E5%9E%8B.pptx" class="internal" title="图灵机模型.pptx">图灵机模型.pptx</a> <a href="/problem_solving/images/a/a6/Turing_Machine.pdf" class="internal" title="Turing Machine.pdf">Turing_Machine.pdf</a>
+</p>
+<ul><li> Java Safety (毛一鸣 董杨静)</li></ul>
+<p><a href="/problem_solving/images/0/09/Java_Safety_%E6%AF%9B%E4%B8%80%E9%B8%A3.zip" class="internal" title="Java Safety 毛一鸣.zip">Java Safety 毛一鸣.zip</a> <a href="/problem_solving/images/8/89/Java_Safety_%E8%91%A3%E6%9D%A8%E9%9D%99.pdf" class="internal" title="Java Safety 董杨静.pdf">Java Safety 董杨静.pdf</a>
+</p>
+<h1><span class="mw-headline" id="2017.E5.B9.B412.E6.9C.8804.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年12月04日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_9">习题讲解</span></h2>
+<p><a href="/problem_solving/images/f/f7/1-8-set-ops.pdf" class="internal" title="1-8-set-ops.pdf">1-8-set-ops.pdf</a> (<a href="/problem_solving/images/c/c0/1-8-set-ops-handout.pdf" class="internal" title="1-8-set-ops-handout.pdf">1-8-set-ops-handout.pdf</a>)
+</p>
+<ul><li> Set and Operations</li>
+<li> Set Family</li>
+<li> Powerset</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_9">报告</span></h2>
+<p>主题：1-8 (集合及其运算)
+</p>
+<ul><li> 使用集合刻画自然数（兰兆炜 鄢振宇）</li></ul>
+<p><a href="/problem_solving/images/0/06/%E9%9B%86%E5%90%88%E5%AE%9A%E4%B9%89%E8%87%AA%E7%84%B6%E6%95%B0.pptx" class="internal" title="集合定义自然数.pptx">集合定义自然数.pptx</a> <a href="/problem_solving/images/f/f8/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E5%8A%A0%E6%B3%95%E8%BF%90%E7%AE%97.zip" class="internal" title="如何定义加法运算.zip">如何定义加法运算.zip</a>
+</p>
+<ul><li> 集合相关的悖论 (毕秋宇 谢乃荣)</li></ul>
+<p><a href="/problem_solving/images/3/3e/%E5%B8%83%E6%8B%89%E5%88%A9-%E7%A6%8F%E5%B0%94%E8%92%82%E6%82%96%E8%AE%BA.pptx" class="internal" title="布拉利-福尔蒂悖论.pptx"> 布拉利-福尔蒂悖论.pptx</a> <a href="/problem_solving/images/5/57/OT-1-8-2-b-%E8%B0%A2%E4%B9%83%E5%AE%B9.pdf" class="internal" title="OT-1-8-2-b-谢乃容.pdf">A glimpse of Cantor’s Paradox</a>
+</p>
+<h1><span class="mw-headline" id="2017.E5.B9.B412.E6.9C.8811.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年12月11日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_10">习题讲解</span></h2>
+<p><a href="/problem_solving/images/0/0b/1-9-relation.pdf" class="internal" title="1-9-relation.pdf">1-9-relation.pdf</a> (<a href="/problem_solving/images/9/9f/1-9-relation-handout.pdf" class="internal" title="1-9-relation-handout.pdf">1-9-relation-handout.pdf</a>)
+</p>
+<ul><li> Overview</li>
+<li> Powerset (见 <a href="/problem_solving/images/f/f7/1-8-set-ops.pdf" class="internal" title="1-8-set-ops.pdf">1-8-set-ops.pdf</a>)</li>
+<li> Pair and Cartesian product</li>
+<li> Relation (Equivalence Relation)</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_10">报告</span></h2>
+<p>主题：1-9 (关系及其基本性质)
+</p>
+<ul><li> 几种序关系（孙思钰 何润雨）</li></ul>
+<p><a href="/problem_solving/images/2/20/Binary_relation.zip" class="internal" title="Binary relation.zip">Binary_relation.zip</a> <a href="/problem_solving/images/a/a1/1-9OT_1_%E6%A6%82%E5%BF%B5%E8%BE%A8%E6%9E%90%28II%29.pptx" class="internal" title="1-9OT 1 概念辨析(II).pptx">1-9-OT-1-概念辨析(II).pptx</a>
+</p>
+<ul><li> 实数的完备性 (谢逸 何伟)</li></ul>
+<p><a href="/problem_solving/images/d/d2/%E5%AE%9E%E6%95%B0%E5%AE%8C%E5%A4%87%E6%80%A7%EF%BC%88completeness%EF%BC%89%282%29.pptx" class="internal" title="实数完备性（completeness）(2).pptx">实数完备性（completeness）(2).pptx</a>
+</p><p>主题：1-10 (函数)
+</p>
+<ul><li> 函数的复合 (刘恩萌)</li></ul>
+<p><a href="/problem_solving/images/d/d5/Open_topic_%E5%87%BD%E6%95%B0.pptx" class="internal" title="Open topic 函数.pptx">Open topic 函数的复合.pptx</a>
+</p>
+<h1><span class="mw-headline" id="2017.E5.B9.B412.E6.9C.8818.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年12月18日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_11">习题讲解</span></h2>
+<p><a href="/problem_solving/images/a/ab/1-9-relation-II.pdf" class="internal" title="1-9-relation-II.pdf">1-9-relation-II.pdf</a> (<a href="/problem_solving/images/a/ad/1-9-relation-II-handout.pdf" class="internal" title="1-9-relation-II-handout.pdf">1-9-relation-II-handout.pdf</a>)
+</p>
+<ul><li> Relational Data Model</li></ul>
+<p>参考资料:
+</p>
+<ul><li> <a href="/problem_solving/images/5/5e/The_Relational_Data_Model_%28Ullman%29.pdf" class="internal" title="The Relational Data Model (Ullman).pdf">The Relational Data Model (Ullman).pdf</a></li>
+<li> <a rel="nofollow" class="external text" href="https://dbis-uibk.github.io/relax/calc.htm#">RelaX - relational algebra calculator</a> 
+<ul><li> 导入数据库 <a rel="nofollow" class="external text" href="https://gist.github.com/hengxin/b77ba3bbf675e0eb4ac73f41ab550dd1">Course-Management-System-DB (gist ID: b77ba3bbf675e0eb4ac73f41ab550dd1)</a></li>
+<li> Relational Algebra 查询语句见课件</li></ul></li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_11">报告</span></h2>
+<p>主题：1-11 (有限与无限)
+</p>
+<ul><li> 选择公理 (李凯旭 姜勇刚)</li></ul>
+<p><a href="/problem_solving/images/a/ad/ZFC%E5%8F%8A%E9%80%89%E6%8B%A9%E5%85%AC%E7%90%86%E4%BB%8B%E7%BB%8D.pptx" class="internal" title="ZFC及选择公理介绍.pptx">ZFC及选择公理介绍.pptx</a> <a href="/problem_solving/images/7/74/%E9%80%89%E6%8B%A9%E5%85%AC%E7%90%86%E5%8F%8A%E5%85%B6%E7%AD%89%E4%BB%B7%E6%80%A7%E5%91%BD%E9%A2%98.pptx" class="internal" title="选择公理及其等价性命题.pptx">选择公理及其等价性命题.pptx</a>
+</p>
+<ul><li> 连续统假设 (戴若石 裴一凡)</li></ul>
+<p><a href="/problem_solving/images/0/06/1-11-OT2-%E8%BF%9E%E7%BB%AD%E7%BB%9F%E5%81%87%E8%AE%BE.rar" class="internal" title="1-11-OT2-连续统假设.rar">1-11-OT2-连续统假设.rar</a>
+</p>
+<h1><span class="mw-headline" id="2017.E5.B9.B412.E6.9C.8825.E6.97.A5_.28.E5.91.A8.E4.B8.80.29">2017年12月25日 (周一)</span></h1>
+<h2><span class="mw-headline" id=".E4.B9.A0.E9.A2.98.E8.AE.B2.E8.A7.A3_12">习题讲解</span></h2>
+<p><a href="/problem_solving/images/5/54/1-11-infinity.pdf" class="internal" title="1-11-infinity.pdf">1-11-infinity.pdf</a> (<a href="/problem_solving/images/f/f9/1-11-infinity-handout.pdf" class="internal" title="1-11-infinity-handout.pdf">1-11-infinity-handout.pdf</a>)
+</p>
+<ul><li> Finite and Infinite</li></ul>
+<h2><span class="mw-headline" id=".E6.8A.A5.E5.91.8A_12">报告</span></h2>
+<p>主题：1-12 (偏序关系和格)
+</p>
+<ul><li> 序数与基数 (陶绍诚 周涛)</li></ul>
+<p><a href="/problem_solving/images/b/bd/%E9%99%B6%E7%BB%8D%E8%AF%9A-%E5%BA%8F%E6%95%B0%E4%B8%8E%E5%9F%BA%E6%95%B0.zip" class="internal" title="陶绍诚-序数与基数.zip">陶绍诚-序数与基数.zip</a> <a href="/problem_solving/images/c/cb/%E5%91%A8%E6%B6%9B-%E5%BA%8F%E6%95%B0%E4%B8%8E%E5%9F%BA%E6%95%B0.pptx" class="internal" title="周涛-序数与基数.pptx">周涛-序数与基数.pptx</a>
+</p>
+<ul><li> 分配格 (张博乔)</li></ul>
+<p><a href="/problem_solving/images/3/3e/%E5%BC%A0%E5%8D%9A%E4%B9%94-%E5%88%86%E9%85%8D%E6%A0%BC.pptx" class="internal" title="张博乔-分配格.pptx">张博乔-分配格.pptx</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20190402025033
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.043 seconds
+Real time usage: 0.048 seconds
+Preprocessor visited node count: 142/1000000
+Preprocessor generated node count: 148/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:675-0!*!*!!zh-cn!*!* and timestamp 20190402025033 and revision id 2287
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2017级--小班讨论_(第一学期)&amp;oldid=2287">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2017级--小班讨论_(第一学期)&amp;oldid=2287</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA+%28%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;oldid=2287" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2018年1月13日 (星期六) 22:18。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":48});});</script>
+	</body>
+</html>

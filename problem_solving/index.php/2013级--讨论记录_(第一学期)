@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2013级--讨论记录 (第一学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2013级--讨论记录_(第一学期)","wgTitle":"2013级--讨论记录 (第一学期)","wgCurRevisionId":704,"wgRevisionId":704,"wgArticleId":184,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2013级--讨论记录_(第一学期)","wgRelevantArticleId":184,"wgRequestId":"ac9c46927dde6e5f82d11912","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2013级--讨论记录_第一学期 rootpage-2013级--讨论记录_第一学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2013级--讨论记录 (第一学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>目录</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#2013.E5.B9.B49.E6.9C.8829.E6.97.A5"><span class="tocnumber">1</span> <span class="toctext">2013年9月29日</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#2013.E5.B9.B410.E6.9C.8811.E6.97.A5"><span class="tocnumber">2</span> <span class="toctext">2013年10月11日</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#2013.E5.B9.B410.E6.9C.8818.E6.97.A5"><span class="tocnumber">3</span> <span class="toctext">2013年10月18日</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#2013.E5.B9.B410.E6.9C.8825.E6.97.A5"><span class="tocnumber">4</span> <span class="toctext">2013年10月25日</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#2013.E5.B9.B411.E6.9C.881.E6.97.A5"><span class="tocnumber">5</span> <span class="toctext">2013年11月1日</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#2013.E5.B9.B411.E6.9C.888.E6.97.A5"><span class="tocnumber">6</span> <span class="toctext">2013年11月8日</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#2013.E5.B9.B411.E6.9C.8815.E6.97.A5"><span class="tocnumber">7</span> <span class="toctext">2013年11月15日</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#2013.E5.B9.B411.E6.9C.8822.E6.97.A5"><span class="tocnumber">8</span> <span class="toctext">2013年11月22日</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#2013.E5.B9.B411.E6.9C.8829.E6.97.A5"><span class="tocnumber">9</span> <span class="toctext">2013年11月29日</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#2013.E5.B9.B412.E6.9C.886.E6.97.A5"><span class="tocnumber">10</span> <span class="toctext">2013年12月6日</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#2013.E5.B9.B412.E6.9C.8813.E6.97.A5"><span class="tocnumber">11</span> <span class="toctext">2013年12月13日</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#2013.E5.B9.B412.E6.9C.8820.E6.97.A5"><span class="tocnumber">12</span> <span class="toctext">2013年12月20日</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#2013.E5.B9.B412.E6.9C.8827.E6.97.A5"><span class="tocnumber">13</span> <span class="toctext">2013年12月27日</span></a></li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="2013.E5.B9.B49.E6.9C.8829.E6.97.A5">2013年9月29日</span></h1>
+<p><a href="/problem_solving/images/8/8d/Feedback.pdf" class="internal" title="Feedback.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    根据9月27日（星期五）上所作的测试的结果进行反馈。
+    <ul>
+      <li>讨论同学们的程序中的问题</li>
+      <li>提供程序设计的建议</li>
+    </ul>
+  </li>
+  <li>
+    第一个编程练习。
+    <ul>
+      <li>熟悉VC++编程环境。</li>
+      <li>让有编程经验的同学帮助一位没有编程经验的同学完成第一个程序Hello world.</li>
+    </ul>
+  </ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B410.E6.9C.8811.E6.97.A5">2013年10月11日</span></h1>
+<p><a href="/problem_solving/images/9/9e/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%9510-11.pdf" class="internal" title="讨论记录10-11.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>
+    使用无刻度天平找出12个硬币中的唯一一个伪币的问题。
+    <ul>
+      <li>使用4次称量的方法</li>
+      <li>使用3次称量的方法</li>
+      <li>决策树的概念</li>
+    </ul>
+  </li>
+  <li>
+    移位加密</li>
+  <li>使用示意图辅助证明的优劣</li>  
+  </ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B410.E6.9C.8818.E6.97.A5">2013年10月18日</span></h1>
+<p><a href="/problem_solving/images/c/c6/%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%9510-18.pdf" class="internal" title="讨论记录10-18.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>使用形式化方法帮助推理</li>
+<li>逆否命题</li>
+<li>使用全称量词和存在量词</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B410.E6.9C.8825.E6.97.A5">2013年10月25日</span></h1>
+<ol>
+<li>C++ 编程练习</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B411.E6.9C.881.E6.97.A5">2013年11月1日</span></h1>
+<p>校运动会
+</p>
+<h1><span class="mw-headline" id="2013.E5.B9.B411.E6.9C.888.E6.97.A5">2013年11月8日</span></h1>
+<p><a href="/problem_solving/images/f/fe/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%8811-8.pdf" class="internal" title="作业反馈11-8.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>27.3 课程Project</li>
+<ul><li>Successor Set的定义</li></ul>
+<ul><li>证明Successor Set的交集仍然是Successor Set</li></ul>
+<ul><li>证明W_A = W_B</li></ul>
+<li>DH习题</li>
+<ul><li>分支循环语句之间的相互转换</li></ul>
+<ul><li>用条件语句和递归实现while-do循环</li></ul>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B411.E6.9C.8815.E6.97.A5">2013年11月15日</span></h1>
+<p><a href="/problem_solving/images/0/02/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%AE%A8%E8%AE%BA11-15.pdf" class="internal" title="作业反馈与讨论11-15.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>2.10~2.11 输出N!个由1~N组成的排列的方法；</li>
+<li>2.12~2.15 判断一个排列是否可以使用一个栈输出；</li>
+<li>2.16 简介二分搜索树的构建；</li>
+<li>简介BNF(Backus-Naur Form)</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B411.E6.9C.8822.E6.97.A5">2013年11月22日</span></h1>
+<ol>
+<li>程序正确性证明(赵建华教授)</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B411.E6.9C.8829.E6.97.A5">2013年11月29日</span></h1>
+<p><a href="/problem_solving/images/6/66/%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA11-29.pdf" class="internal" title="问题讨论11-29.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>SAT问题和3SAT问题</li>
+<li>写一段代码输出一个含有m个子句的3SAT问题的实例；每个子句中变量从n个变量中随机取得。</li>
+<li>扩充上面的代码尝试判断输出的实例是否是可满足的，如果是给出真值指派。</li>
+<ul><li>如果采用穷举的方法，如何穷举所有可能的指派？</li></ul>
+<ul><li>尝试穷举之外的方法</li></ul>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B412.E6.9C.886.E6.97.A5">2013年12月6日</span></h1>
+<p><a href="/problem_solving/images/5/56/%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA12-6.pdf" class="internal" title="问题讨论12-6.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>集合的定义和Paradox</li>
+<li>文氏图</li>
+<li>Family of index sets</li>
+<li>两两互不相交集合</li>
+<li>幂集的概念与应用</li>
+<li>笛卡尔集的概念</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B412.E6.9C.8813.E6.97.A5">2013年12月13日</span></h1>
+<p><a href="/problem_solving/images/8/88/%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA12-13.pdf" class="internal" title="问题讨论12-13.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>关系的性质</li>
+<li>等价关系</li>
+<li>偏序和全序</li>
+<li>自然数、整数、有理数和实数</li>
+<li>实数的界和确界</li>
+<li>习题反馈</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B412.E6.9C.8820.E6.97.A5">2013年12月20日</span></h1>
+<p><a href="/problem_solving/images/7/7c/%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA12-20.pdf" class="internal" title="问题讨论12-20.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>函数的定义Problem 13.3</li>
+<li>特征函数Problem13.5</li>
+<li>一对一函数和满射函数的概念</li>
+<li>双射函数的概念</li>
+<li>本学期内容简单回顾</li>
+</ol>
+<h1><span class="mw-headline" id="2013.E5.B9.B412.E6.9C.8827.E6.97.A5">2013年12月27日</span></h1>
+<p><a href="/problem_solving/images/0/07/%E9%97%AE%E9%A2%98%E8%AE%A8%E8%AE%BA12-27.pdf" class="internal" title="问题讨论12-27.pdf">[课件下载]</a>
+</p>
+<ol>
+<li>可数集的概念</li>
+<li>实数集合不可数的证明</li>
+<li>康托定理的证明</li>
+<li>Problem 22.3,22.1,22.1讨论</li>
+<li>Problem 21.19讨论</li>
+</ol>
+
+<!-- 
+NewPP limit report
+Cached time: 20190402071604
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.013 seconds
+Real time usage: 0.015 seconds
+Preprocessor visited node count: 50/1000000
+Preprocessor generated node count: 56/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:184-0!*!*!!zh-cn!*!* and timestamp 20190402071604 and revision id 704
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2013级--讨论记录_(第一学期)&amp;oldid=704">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2013级--讨论记录_(第一学期)&amp;oldid=704</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95+%28%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;oldid=704" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2013%E7%BA%A7--%E8%AE%A8%E8%AE%BA%E8%AE%B0%E5%BD%95_(%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2013年12月31日 (星期二) 11:02。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":47});});</script>
+	</body>
+</html>

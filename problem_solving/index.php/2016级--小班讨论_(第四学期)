@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2016级--小班讨论 (第四学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2016级--小班讨论_(第四学期)","wgTitle":"2016级--小班讨论 (第四学期)","wgCurRevisionId":2670,"wgRevisionId":2670,"wgArticleId":805,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2016级--小班讨论_(第四学期)","wgRelevantArticleId":805,"wgRequestId":"8a0cbe6186a0fbade05ab3f6","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2016级--小班讨论_第四学期 rootpage-2016级--小班讨论_第四学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2016级--小班讨论 (第四学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div id="toc" class="toc"><div id="toctitle"><h2>目录</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#2018.E5.B9.B43.E6.9C.887.E6.97.A5"><span class="tocnumber">1</span> <span class="toctext">2018年3月7日</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#2018.E5.B9.B43.E6.9C.8814.E6.97.A5"><span class="tocnumber">2</span> <span class="toctext">2018年3月14日</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#2018.E5.B9.B43.E6.9C.8821.E6.97.A5"><span class="tocnumber">3</span> <span class="toctext">2018年3月21日</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#2018.E5.B9.B43.E6.9C.8828.E6.97.A5"><span class="tocnumber">4</span> <span class="toctext">2018年3月28日</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#2018.E5.B9.B44.E6.9C.884.E6.97.A5"><span class="tocnumber">5</span> <span class="toctext">2018年4月4日</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#2018.E5.B9.B44.E6.9C.8811.E6.97.A5"><span class="tocnumber">6</span> <span class="toctext">2018年4月11日</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#2018.E5.B9.B44.E6.9C.8818.E6.97.A5"><span class="tocnumber">7</span> <span class="toctext">2018年4月18日</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#2018.E5.B9.B44.E6.9C.8825.E6.97.A5"><span class="tocnumber">8</span> <span class="toctext">2018年4月25日</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#2018.E5.B9.B45.E6.9C.882.E6.97.A5"><span class="tocnumber">9</span> <span class="toctext">2018年5月2日</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#2018.E5.B9.B45.E6.9C.889.E6.97.A5"><span class="tocnumber">10</span> <span class="toctext">2018年5月9日</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#2018.E5.B9.B45.E6.9C.8816.E6.97.A5"><span class="tocnumber">11</span> <span class="toctext">2018年5月16日</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#2018.E5.B9.B45.E6.9C.8823.E6.97.A5"><span class="tocnumber">12</span> <span class="toctext">2018年5月23日</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#2018.E5.B9.B45.E6.9C.8830.E6.97.A5"><span class="tocnumber">13</span> <span class="toctext">2018年5月30日</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#2018.E5.B9.B46.E6.9C.886.E6.97.A5"><span class="tocnumber">14</span> <span class="toctext">2018年6月6日</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#2018.E5.B9.B46.E6.9C.8813.E6.97.A5"><span class="tocnumber">15</span> <span class="toctext">2018年6月13日</span></a></li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="2018.E5.B9.B43.E6.9C.887.E6.97.A5">2018年3月7日</span></h1>
+<p><a href="/problem_solving/images/e/e1/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC1%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第1次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>字母表、词、语言。</li>
+  <li>判定和优化问题。</li>
+  <li>P和NP。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B43.E6.9C.8814.E6.97.A5">2018年3月14日</span></h1>
+<p><a href="/problem_solving/images/5/5a/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC2%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第2次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>判定问题和优化问题。</li>
+  <li>P。</li>
+  <li>NP。</li>
+  <li>NP-hard与NPC。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B43.E6.9C.8821.E6.97.A5">2018年3月21日</span></h1>
+<p><a href="/problem_solving/images/7/71/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC3%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第3次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>伪多项式时间算法。</li>
+  <li>strongly NP-hard。</li>
+  <li>参数化。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B43.E6.9C.8828.E6.97.A5">2018年3月28日</span></h1>
+<p><a href="/problem_solving/images/1/16/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC4%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第4次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>Lowering Worst Case Complexity of Exponential Algorithms。</li>
+  <li>branch-and-bound。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B44.E6.9C.884.E6.97.A5">2018年4月4日</span></h1>
+<p><a href="/problem_solving/images/b/bf/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC5%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第5次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>local search的基本概念。</li>
+  <li>hill climbing。</li>
+  <li>very large-scale neighborhood search。</li>
+  <li>multi-start methods。</li>
+  <li>stochastic hill climbing。</li>
+  <li>tabu search。</li>
+  <li>local search的性能。</li>
+  <li>应用。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B44.E6.9C.8811.E6.97.A5">2018年4月11日</span></h1>
+<p><a href="/problem_solving/images/6/62/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC6%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第6次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>用0-1规划建模。</li>
+  <li>rounding。</li>
+  <li>广义的relaxation。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B44.E6.9C.8818.E6.97.A5">2018年4月18日</span></h1>
+<p><a href="/problem_solving/images/6/61/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC7%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第7次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>近似算法的基本概念。</li>
+  <li>stability。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B44.E6.9C.8825.E6.97.A5">2018年4月25日</span></h1>
+<p><a href="/problem_solving/images/1/14/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC8%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第8次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>greedy vs. local search。</li>
+  <li>MIN-VCP。</li>
+  <li>SCP。</li>
+  <li>MAX-CUT。</li>
+  <li>greedy和local search。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B45.E6.9C.882.E6.97.A5">2018年5月2日</span></h1>
+<p><a href="/problem_solving/images/6/6c/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC9%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第9次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>4.3.4.1。</li>
+  <li>4.3.4.2(用于SKP)。</li>
+  <li>4.3.4.2(用于KP)。</li>
+  <li>4.3.4.7。</li>
+  <li>4.3.4.11。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B45.E6.9C.889.E6.97.A5">2018年5月9日</span></h1>
+<p><a href="/problem_solving/images/3/30/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC10%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第10次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>算法4.3.5.1。</li>
+  <li>算法4.3.5.4。</li>
+  <li>算法4.3.5.18。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B45.E6.9C.8816.E6.97.A5">2018年5月16日</span></h1>
+<p><a href="/problem_solving/images/c/cc/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC11%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第11次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>dual approximation algorithms。</li>
+  <li>dual PTAS for BIN-P。</li>
+  <li>PTAS for MS。</li>
+  <li>(近似)算法复习。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B45.E6.9C.8823.E6.97.A5">2018年5月23日</span></h1>
+<p><a href="/problem_solving/images/4/4d/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC12%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第12次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>随机算法的基本概念。</li>
+  <li>Las Vegas算法。</li>
+  <li>Monte Carlo算法。</li>
+  <li>随机优化算法。</li>
+  <li>随机算法的设计范式。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B45.E6.9C.8830.E6.97.A5">2018年5月30日</span></h1>
+<p><a href="/problem_solving/images/3/38/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC13%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第13次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>random sampling and Las Vegas。</li>
+  <li>abundance of witnesses and one-sided-error Monte Carlo。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B46.E6.9C.886.E6.97.A5">2018年6月6日</span></h1>
+<p><a href="/problem_solving/images/0/03/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC14%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第14次.pdf">[课件下载]</a>
+</p>
+<ol>
+  <li>NEQ-POL。</li>
+  <li>NEQ-1BP。</li>
+  <li>重访Rabin-Karp。</li>
+</ol>
+<h1><span class="mw-headline" id="2018.E5.B9.B46.E6.9C.8813.E6.97.A5">2018年6月13日</span></h1>
+<p><a href="/problem_solving/images/a/a4/%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA-16%E7%BA%A7-%E7%AC%AC4%E5%AD%A6%E6%9C%9F-%E7%AC%AC15%E6%AC%A1.pdf" class="internal" title="小班讨论-16级-第4学期-第15次.pdf">[课件下载]</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20190402074144
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.018 seconds
+Real time usage: 0.019 seconds
+Preprocessor visited node count: 58/1000000
+Preprocessor generated node count: 64/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:805-0!*!*!!zh-cn!*!* and timestamp 20190402074144 and revision id 2670
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2016级--小班讨论_(第四学期)&amp;oldid=2670">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2016级--小班讨论_(第四学期)&amp;oldid=2670</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA+%28%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)&amp;oldid=2670" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2016%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E5%9B%9B%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2018年6月21日 (星期四) 12:08。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":48});});</script>
+	</body>
+</html>

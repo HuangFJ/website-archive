@@ -11,6 +11,7 @@ extern crate url;
 #[macro_use]
 extern crate log;
 extern crate log4rs;
+extern crate toml;
 
 use htmlescape::decode_html;
 use log::LevelFilter;
@@ -29,12 +30,7 @@ use std::thread;
 use url::percent_encoding::percent_decode;
 use url::Url;
 
-const FEED: &str = "http://cslabcms.nju.edu.cn/problem_solving/index.php/首页";
-const INCLUDE_URL_PREFIX: [&str; 1] = ["http://cslabcms.nju.edu.cn/problem_solving/index.php/"];
-const EXCLUDE_URL_PREFIX: [&str; 2] = [
-    "http://cslabcms.nju.edu.cn/problem_solving/index.php/模板:",
-    "http://cslabcms.nju.edu.cn/problem_solving/index.php/特殊:",
-];
+static mut CFG: toml::Value = toml::Value::Integer(0);
 
 struct HttpRequest<'a, 'r>(&'a Request<'r>);
 
@@ -61,6 +57,16 @@ fn index(_path: PathBuf, request: HttpRequest) -> Option<fs::File> {
 }
 
 fn main() {
+    let mut buf: String = String::new();
+    fs::File::open("config.toml")
+        .unwrap()
+        .read_to_string(&mut buf)
+        .unwrap();
+    let feed = unsafe {
+        CFG = toml::from_str(&buf).unwrap();
+        CFG["feed"].as_str().unwrap()
+    };
+
     let logfile = FileAppender::builder()
         .encoder(Box::new(PatternEncoder::new("{l} - {m}\n")))
         .build("output.log")
@@ -74,7 +80,7 @@ fn main() {
     log4rs::init_config(config).unwrap();
 
     let (sender, receiver) = mpsc::channel();
-    sender.send(FEED.to_string());
+    sender.send(feed.to_owned());
 
     thread::spawn(move || {
         let mut fetched: Vec<String> = vec![];
@@ -91,24 +97,38 @@ fn main() {
 }
 
 fn fetch(uri: &str, sender: &mpsc::Sender<String>) {
+    let (feed, include_url_path, exclude_url_path) = unsafe {
+        (
+            CFG["feed"].as_str().unwrap(),
+            CFG["include_url_path"].as_array().unwrap(),
+            CFG["exclude_url_path"].as_array().unwrap(),
+        )
+    };
     // 根地址
-    let base_url = Url::parse(FEED).unwrap().join("/").unwrap();
+    let base_url = Url::parse(feed).unwrap().join("/").unwrap();
     // 目标地址
     let target_url = Url::parse(uri).unwrap();
 
-    let target_url_str = url_decode(target_url.as_str());
-    // 在白名单
-    for in_url in INCLUDE_URL_PREFIX.iter() {
-        if target_url_str.starts_with(in_url) {
-            //不在黑名单
-            for ex_url in EXCLUDE_URL_PREFIX.iter() {
-                if target_url_str.starts_with(ex_url) {
-                    return;
-                }
-            }
-        } else {
-            return;
+    let target_url_str = decode_html(&url_decode(target_url.as_str())).unwrap();
+
+    let mut is_include = false;
+    for in_val in include_url_path {
+        if target_url_str.starts_with(in_val.as_str().unwrap()) {
+            is_include = true;
+            break;
         }
+    }
+    
+    let mut is_exclude = false;
+    for ex_val in exclude_url_path {
+        if target_url_str.starts_with(ex_val.as_str().unwrap()) {
+            is_exclude = true;
+            break;
+        }
+    }
+
+    if !is_include || is_exclude {
+        return;
     }
 
     // 将url转为相对地址
@@ -162,7 +182,7 @@ fn fetch(uri: &str, sender: &mpsc::Sender<String>) {
             return;
         }
         // 将href地址中的&编码转成正常字符串
-        let href = decode_html(got.map(|x| x.as_str()).unwrap()).unwrap();
+        let href = got.map(|x| x.as_str()).unwrap();
 
         // 剔除href为#的uri
         if !href.starts_with("#") {

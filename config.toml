@@ -1,0 +1,10 @@
+feed = "http://cslabcms.nju.edu.cn/problem_solving/index.php/首页"
+include_url_path = [
+    "http://cslabcms.nju.edu.cn/problem_solving/index.php/",
+    "http://cslabcms.nju.edu.cn/problem_solving/images/",
+    "http://cslabcms.nju.edu.cn/problem_solving/load.php?",
+]
+exclude_url_path = [
+    "http://cslabcms.nju.edu.cn/problem_solving/index.php/模板:",
+    "http://cslabcms.nju.edu.cn/problem_solving/index.php/特殊:",
+]

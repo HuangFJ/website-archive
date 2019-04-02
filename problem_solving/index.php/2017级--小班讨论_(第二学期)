@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>2017级--小班讨论 (第二学期) - 问题求解</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2017级--小班讨论_(第二学期)","wgTitle":"2017级--小班讨论 (第二学期)","wgCurRevisionId":2671,"wgRevisionId":2671,"wgArticleId":803,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"2017级--小班讨论_(第二学期)","wgRelevantArticleId":803,"wgRequestId":"e72c5efeccadc71e2ba3389d","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false}});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"zh-cn"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<script async="" src="/problem_solving/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/problem_solving/opensearch_desc.php" title="问题求解 (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cslabcms.nju.edu.cn/problem_solving/api.php?action=rsd"/>
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="问题求解的Atom feed" href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2017级--小班讨论_第二学期 rootpage-2017级--小班讨论_第二学期 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh-CN">2017级--小班讨论 (第二学期)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">来自问题求解</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><h2><span class="mw-headline" id=".E5.AD.A6.E4.B9.A0.E5.91.A8.E5.8E.86">学习周历</span></h2>
+<table border="1">
+<tr>
+<th> 日期
+</th>
+<th> 论题
+</th>
+<th> Open Topics
+<p>(<a href="/problem_solving/images/1/1a/Students-opentopics.pdf" class="internal" title="Students-opentopics.pdf">分班表</a>)
+</p>
+</th>
+<th> 扩展材料 (供感兴趣的同学自学使用)
+</th></tr>
+<tr>
+<td style="width: 80px;"> 2018-03-05
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/5/55/1-exam.pdf" class="internal" title="1-exam.pdf"> 1-exam.pdf</a> </li></ul>
+<p>(<a href="/problem_solving/images/d/d8/1-exam-handout.pdf" class="internal" title="1-exam-handout.pdf"> 1-exam-handout.pdf</a>)
+</p>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem">Cantor-Bernstein Theorem@wiki</a></li></ul>
+<pre> (阅读目的: 学习 Cantor-Bernstein Theorem 的证明。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-03-12
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/e/e2/2-1-correctness.pdf" class="internal" title="2-1-correctness.pdf"> 2-1: 算法的正确性</a></li></ul>
+</td>
+<td>
+<ul><li> Insertion Sort</li></ul>
+<ol><li> <a href="/problem_solving/images/6/69/OT1-Class1-%E5%88%98%E6%81%A9%E8%90%8C-InsertionSort.pptx" class="internal" title="OT1-Class1-刘恩萌-InsertionSort.pptx"> 刘恩萌</a></li>
+<li> <a href="/problem_solving/images/5/50/OT1-Class2-%E5%A7%9C%E5%8B%87%E5%88%9A-%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%80%A7%E8%AF%81%E6%98%8E.pptx" class="internal" title="OT1-Class2-姜勇刚-插入排序的正确性证明.pptx"> 姜勇刚</a></li>
+<li> <a href="/problem_solving/images/2/2f/OT1-Class3-%E5%BC%A0%E5%A4%A9%E6%98%80-%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E6%AD%A3%E7%A1%AE%E6%80%A7%E8%AF%81%E6%98%8E.pdf" class="internal" title="OT1-Class3-张天昀-插入排序正确性证明.pdf"> 张天昀</a></li></ol>
+<ul><li> Cyclic Hanoi</li></ul>
+<ol><li> <a href="/problem_solving/images/3/31/OT2-Class1-%E6%9D%8E%E5%87%AF%E6%97%AD-CyclicHanoi.pptx" class="internal" title="OT2-Class1-李凯旭-CyclicHanoi.pptx"> 李凯旭</a></li>
+<li> <a href="/problem_solving/images/0/08/OT2-Class2-%E9%83%91%E5%A5%98%E5%B7%8D-CyclicHanoi.pdf" class="internal" title="OT2-Class2-郑奘巍-CyclicHanoi.pdf"> 郑奘巍</a></li>
+<li> <a href="/problem_solving/images/0/01/OT2-Class3-%E8%91%A3%E6%9D%A8%E9%9D%99-CyclicHanoi.pdf" class="internal" title="OT2-Class3-董杨静-CyclicHanoi.pdf"> 董杨静</a></li></ol>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Hoare_logic">Hoare Logic@wiki</a>: <a href="/problem_solving/images/e/e9/An_Axiomatic_Basis_for_Computer_Programming_%28Hoare_CACM69%29.pdf" class="internal" title="An Axiomatic Basis for Computer Programming (Hoare CACM69).pdf"> An Axiomatic Basis for Computer Programming (Hoare CACM69).pdf</a></li></ul>
+<pre> (阅读目的: 了解 Hoare Logic。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-03-19
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/7/7a/2-1-%E7%AE%97%E6%B3%95%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%80%A7%282%29.pdf" class="internal" title="2-1-算法的正确性(2).pdf"> 2-1: 算法的正确性 (2)</a></li></ul>
+</td>
+<td>
+<ul><li> Algorithmic Gap</li></ul>
+<ol><li> <a href="/problem_solving/images/6/63/OT1-Class1-%E7%8E%8B%E8%85%BE-AlgorithmicGap.pptx" class="internal" title="OT1-Class1-王腾-AlgorithmicGap.pptx">王腾</a></li>
+<li> <a href="/problem_solving/images/1/17/OT1-Class2-%E6%9D%8E%E9%A1%B6%E4%B8%BA-AlgorithmicGap.pptx" class="internal" title="OT1-Class2-李顶为-AlgorithmicGap.pptx">李顶为</a></li>
+<li> <a href="/problem_solving/images/8/85/OT1-Class3-%E8%82%96%E6%B1%9F-AlgorithmicGap.zip" class="internal" title="OT1-Class3-肖江-AlgorithmicGap.zip">肖江</a></li></ol>
+<ul><li> Asymptotic Notations</li></ul>
+<ol><li> <a href="/problem_solving/images/6/63/OT2-Class1-%E9%A9%AC%E5%B8%B8%E9%A3%8E-AsymptoticNotations.pptx" class="internal" title="OT2-Class1-马常风-AsymptoticNotations.pptx">马常风</a></li>
+<li> <a href="/problem_solving/images/2/21/OT2-Class2-%E9%BB%84%E7%A7%89%E7%84%9C-AsymptoticNotations.pptx" class="internal" title="OT2-Class2-黄秉焜-AsymptoticNotations.pptx">黄秉焜</a></li>
+<li> <a href="/problem_solving/images/e/eb/OT2-Class3-%E5%90%95%E4%BA%91%E5%93%B2-AsymptoticNotations.pptx" class="internal" title="OT2-Class3-吕云哲-AsymptoticNotations.pptx">吕云哲</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/f3/ArXiv12_1211.4470_%28CSUR12%29_Loop_Invariants_Analysis_Classification_and_Examples.pdf" class="internal" title="ArXiv12 1211.4470 (CSUR12) Loop Invariants Analysis Classification and Examples.pdf"> Paper: Loop Invariants: Analysis, Classification, and Examples.pdf</a></li></ul>
+<pre> (阅读建议: 不必一次性读完 (这也不太现实); 
+  先阅读第一章，从宏观角度理解循环不变式。
+  再对照目录，在适当时候阅读相应算法。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-03-26
+</p>
+</td>
+<td>
+<ul><li> 程序设计辅导 (一)</li></ul>
+</td>
+<td>
+<ul><li> The twelvefold way (1)</li></ul>
+<ol><li> <a href="/problem_solving/images/7/76/OT2-Class1-%E9%AB%98%E5%A4%A9%E6%9C%97-12way-part1.pptx" class="internal" title="OT2-Class1-高天朗-12way-part1.pptx"> 高天朗</a></li>
+<li> <a href="/problem_solving/images/a/ab/OT1-Class2-%E8%B0%A2%E9%80%B8-12way-part1.pptx" class="internal" title="OT1-Class2-谢逸-12way-part1.pptx"> 谢逸</a></li>
+<li> <a href="/problem_solving/images/9/91/OT1-Class3-%E4%BD%95%E4%BC%9F-12way-part1.pptx" class="internal" title="OT1-Class3-何伟-12way-part1.pptx"> 何伟</a></li></ol>
+<ul><li> The twelvefold way (2)</li></ul>
+<ol><li> <a href="/problem_solving/images/1/15/OT2-Class1-%E5%BC%A0%E5%BB%B7%E6%98%8A-12way-part2.pptx" class="internal" title="OT2-Class1-张廷昊-12way-part2.pptx"> 张廷昊</a></li>
+<li> <a href="/problem_solving/images/1/14/OT2-Class2-%E5%8C%A1%E8%88%92%E7%A3%8A-part2.pptx" class="internal" title="OT2-Class2-匡舒磊-part2.pptx"> 匡舒磊</a></li>
+<li> <a href="/problem_solving/images/f/fa/OT2-Class3-%E6%AE%B7%E5%A4%A9%E6%B6%A6-12way-part2.pptx" class="internal" title="OT2-Class3-殷天润-12way-part2.pptx"> 殷天润</a></li></ol>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Twelvefold_way">Twelvefold Way (wiki)</a> <a rel="nofollow" class="external text" href="http://tcs.nju.edu.cn/wiki/index.php/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6_(Spring_2015)/Basic_enumeration">Basic Enumeration (尹一通老师 “组合数学” 课程讲义)</a></li></ul>
+<pre> (阅读建议: 每位同学(不仅是做 Open Topics 的同学)都读一读。) 
+</pre>
+<ul><li> <a href="/problem_solving/images/b/b4/The_Art_of_Computer_Programmin_Volume4A_Combinatorial_Algorithms.pdf" class="internal" title="The Art of Computer Programmin Volume4A Combinatorial Algorithms.pdf"> The Art of Computer Programming Vol4A: Combinatorial Algorithms Part 1</a></li></ul>
+<pre> (阅读建议: 阅读第 390 页。理解什么叫做 "indistinguishable"。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-04-02
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/8/8e/2-2-efficiency.pdf" class="internal" title="2-2-efficiency.pdf"> 2-2-efficiency.pdf</a></li>
+<li> <a href="/problem_solving/images/a/a4/2-2-efficiency-handout.pdf" class="internal" title="2-2-efficiency-handout.pdf"> 2-2-efficiency-handout.pdf</a></li></ul>
+</td>
+<td>
+<ul><li> 证明 The Master Theorem</li></ul>
+<ol><li> <a href="/problem_solving/images/5/56/OT1-Class1-%E5%85%B0%E5%85%86%E7%82%9C-Master-Theorem.pptx" class="internal" title="OT1-Class1-兰兆炜-Master-Theorem.pptx"> 兰兆炜</a></li>
+<li> <a href="/problem_solving/images/0/07/OT1-Class3-%E5%90%95%E4%BA%91%E5%93%B2-Master-Theorem.pptx" class="internal" title="OT1-Class3-吕云哲-Master-Theorem.pptx"> 吕云哲</a></li></ol>
+<ul><li> 介绍 Akra–Bazzi Method</li></ul>
+<ol><li> <a href="/problem_solving/images/d/d3/OT2-Class1-%E6%9D%8E%E5%8D%9A%E6%96%87-Akra-Bazzi-Method.pptx" class="internal" title="OT2-Class1-李博文-Akra-Bazzi-Method.pptx"> 李博文</a></li>
+<li> <a href="/problem_solving/images/c/c6/OT2-Class3-%E5%88%98%E5%AF%92-Akra-Bazzi-Method.pptx" class="internal" title="OT2-Class3-刘寒-Akra-Bazzi-Method.pptx"> 刘寒</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/2/20/On_the_Solution_of_Linear_Recurrence_Equations_%28Akra_and_Bazzi_1998%29.pdf" class="internal" title="On the Solution of Linear Recurrence Equations (Akra and Bazzi 1998).pdf"> Paper: On the Solution of Linear Recurrence Equations (Akra and Bazzi, 1998)</a></li></ul>
+<pre> (阅读建议: 了解该方法。在本科阶段，不太用得着。大家以后做复杂的算法分析时（比如分析平均情况时间复杂度），可能会用得到。) 
+</pre>
+<ul><li> <a href="/problem_solving/images/0/06/Concrete_Mathematics_-_R._Graham%2C_D._Knuth%2C_O._Patashnik.pdf" class="internal" title="Concrete Mathematics - R. Graham, D. Knuth, O. Patashnik.pdf"> Concrete Mathematics. R. Graham, D. Knuth, O. Patashnik.pdf</a></li></ul>
+<pre> (阅读建议: 第三章。了解如何处理取整函数。要认识到：如果需要更精确的复杂度分析，我们是有相应的数学工具的。)
+</pre>
+<ul><li> <a href="/problem_solving/images/b/bf/Finding_Repeated_Elements_%28Misra_1982%29.pdf" class="internal" title="Finding Repeated Elements (Misra 1982).pdf"> Paper: Finding Repeated Elements (Misra, 1982).pdf</a></li></ul>
+<pre> (Paper for the "Treasure Hunt" section.)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-04-11
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/f9/2-3-counting.pdf" class="internal" title="2-3-counting.pdf"> 2-3-counting.pdf</a></li>
+<li> <a href="/problem_solving/images/2/26/2-3-counting-handout.pdf" class="internal" title="2-3-counting-handout.pdf"> 2-3-counting-handout.pdf</a></li></ul>
+</td>
+<td>
+<ul><li> Josephus Problem</li></ul>
+<ol><li> <a href="/problem_solving/images/9/99/OT1-Class1-Josephus-%E8%A3%B4%E4%B8%80%E5%87%A1.pptx" class="internal" title="OT1-Class1-Josephus-裴一凡.pptx"> 裴一凡</a></li>
+<li> <a href="/problem_solving/images/0/0d/OT1-Class2-Josephus-%E6%88%B4%E8%8B%A5%E7%9F%B3.pptx" class="internal" title="OT1-Class2-Josephus-戴若石.pptx"> 戴若石</a></li>
+<li> <a href="/problem_solving/images/9/91/OT1-Class3-Josephus-%E6%AF%95%E7%A7%8B%E5%AE%87.pptx" class="internal" title="OT1-Class3-Josephus-毕秋宇.pptx"> 毕秋宇</a></li></ol>
+<ul><li> Generating Function</li></ul>
+<ol><li> <a href="/problem_solving/images/6/69/OT2-Class1-generating_function-%E5%BC%A0%E7%81%B5%E6%AF%93.pptx" class="internal" title="OT2-Class1-generating function-张灵毓.pptx"> 张灵毓</a></li>
+<li> <a href="/problem_solving/images/d/d3/OT2-Class2-GeneratingFunction-%E4%BD%95%E6%B6%A6%E9%9B%A8.pptx" class="internal" title="OT2-Class2-GeneratingFunction-何润雨.pptx"> 何润雨</a></li>
+<li> <a href="/problem_solving/images/c/cb/OT2-Class3-GeneratingFunction-%E4%B8%81%E4%BF%9D%E8%8D%A3.pdf" class="internal" title="OT2-Class3-GeneratingFunction-丁保荣.pdf"> 丁保荣</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/0/06/Concrete_Mathematics_-_R._Graham%2C_D._Knuth%2C_O._Patashnik.pdf" class="internal" title="Concrete Mathematics - R. Graham, D. Knuth, O. Patashnik.pdf"> Concrete Mathematics. R. Graham, D. Knuth, O. Patashnik.pdf</a></li></ul>
+<pre> (阅读建议: 第七章 (7.2-7.5)。Generating Function。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-04-16
+</p>
+</td>
+<td>
+<ul><li> 程序设计辅导 (二)</li></ul>
+</td>
+<td>
+<ul><li> Alpha-Beta 剪枝</li></ul>
+<ol><li> <a href="/problem_solving/images/4/45/OT2-Class1-Alphabeta-%E5%BC%A0%E5%8D%9A%E4%B9%94.pptx" class="internal" title="OT2-Class1-Alphabeta-张博乔.pptx"> 张博乔</a></li>
+<li> <a href="/problem_solving/images/8/87/OT1-Class2-AlphaBeta-%E9%83%91%E5%A5%98%E5%B7%8D.zip" class="internal" title="OT1-Class2-AlphaBeta-郑奘巍.zip"> 郑奘巍</a></li>
+<li> <a href="/problem_solving/images/f/f3/OT1-Class3-AlphaBeta-%E5%BC%A0%E5%A4%A9%E6%98%80.pptx" class="internal" title="OT1-Class3-AlphaBeta-张天昀.pptx"> 张天昀</a></li></ol>
+<ul><li> SAT 求解算法</li></ul>
+<ol><li> <a href="/problem_solving/images/4/4c/OT2-Class1-SAT-%E8%A2%81%E5%BD%A6.zip" class="internal" title="OT2-Class1-SAT-袁彦.zip"> 袁彦</a></li>
+<li> <a href="/problem_solving/images/3/33/OT2-Class2-SAT-%E6%9D%8E%E9%A1%B6%E4%B8%BA.pptx" class="internal" title="OT2-Class2-SAT-李顶为.pptx"> 李顶为</a></li>
+<li> <a href="/problem_solving/images/9/9b/OT2-Class3-SAT-%E6%9D%A8%E6%AC%A3%E7%84%B6.pptx" class="internal" title="OT2-Class3-SAT-杨欣然.pptx"> 杨欣然</a></li></ol>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.satcompetition.org/">The international SAT Competitions</a></li></ul>
+</td></tr>
+<tr>
+<td>
+<p>2018-04-18
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/fc/2-4-recurrences.pdf" class="internal" title="2-4-recurrences.pdf"> 2-4-recurrences</a></li>
+<li> <a href="/problem_solving/images/9/97/2-4-recurrences-handout.pdf" class="internal" title="2-4-recurrences-handout.pdf"> 2-4-recurrences-handout</a></li></ul>
+</td>
+<td>
+<ul><li> 无 (临时习题课)</li></ul>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/ff/TR89_%28MIT_Charles_Leiserson%29_VLSI_Theory_and_Parallel_Supercomputing.pdf" class="internal" title="TR89 (MIT Charles Leiserson) VLSI Theory and Parallel Supercomputing.pdf"> Paper: TR89 (MIT Charles Leiserson) VLSI Theory and Parallel Supercomputing.pdf</a></li></ul>
+<pre>   (阅读建议: 了解 VLSI Layout 相关的更多有意思的结论与算法。(算法问题无处不在。))
+</pre>
+<ul><li> <a href="/problem_solving/images/c/c8/Programming_Pearls_%28Second_Edition_Jon_Bentley%29.pdf" class="internal" title="Programming Pearls (Second Edition Jon Bentley).pdf"> Book: Programming Pearls (Second Edition Jon Bentley).pdf</a></li></ul>
+<pre>   (阅读建议: Column 8 关于 Maximal-sum Subarray 问题的讨论。)
+</pre>
+<ul><li> <a href="/problem_solving/images/c/c0/Mellin_Transforms_and_Asymptotics_The_Mergesort_Recurrence_%28Flajolet_1994%29.pdf" class="internal" title="Mellin Transforms and Asymptotics The Mergesort Recurrence (Flajolet 1994).pdf"> Mellin Transforms and Asymptotics: The Mergesort Recurrence (Flajolet 1994).pdf</a>    </li>
+<li> <a href="/problem_solving/images/f/fc/2-4_Mergesort.mp4.zip" class="internal" title="2-4 Mergesort.mp4.zip"> Mergesort (Video)</a></li></ul>
+<pre>   (Paper and video for the "Treasure Hunt" section on mergesort.)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-04-23
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/3/3f/2-5-recursion.pdf" class="internal" title="2-5-recursion.pdf"> 2-5-recursion</a></li>
+<li> <a href="/problem_solving/images/2/21/2-5-recursion-handout.pdf" class="internal" title="2-5-recursion-handout.pdf"> 2-5-recursion-handout</a></li></ul>
+</td>
+<td>
+<ul><li> 无 (两节习题讲解课)</li></ul>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/f0/An_Introduction_to_the_Analysis_of_Algorithms_%282nd_Edition_Robert_Sedgewick%2C_Philippe_Flajolet%29.pdf" class="internal" title="An Introduction to the Analysis of Algorithms (2nd Edition Robert Sedgewick, Philippe Flajolet).pdf"> Book: An Introduction to the Analysis of Algorithms (2nd Edition Robert Sedgewick, Philippe Flajolet).pdf</a></li></ul>
+<pre>   (阅读建议: 学习 Chapters 2, 3, 4; 了解各种类型的 Linear Recurrences 的解法。)
+</pre>
+<ul><li> <a href="/problem_solving/images/b/b3/Proofs_from_THE_BOOK_%28Fifth_Edition_2014%29.pdf" class="internal" title="Proofs from THE BOOK (Fifth Edition 2014).pdf"> Book: Proofs from THE BOOK (Fifth Edition 2014).pdf</a></li></ul>
+<pre>   (阅读建议: Chapter 39: How to Guard a Museum。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-04-28
+</p>
+</td>
+<td>
+<ul><li> 程序设计辅导 (三)</li></ul>
+</td>
+<td>
+<ul><li> Monty Hall Problem</li></ul>
+<ol><li> <a href="/problem_solving/images/9/99/OT1-Class1-MontyHall-%E6%9D%8E%E5%8D%9A%E6%96%87.pptx" class="internal" title="OT1-Class1-MontyHall-李博文.pptx"> 李博文</a></li>
+<li> <a href="/problem_solving/images/d/dd/OT1-Class2-MontyHall-%E6%AF%9B%E4%B8%80%E9%B8%A3.zip" class="internal" title="OT1-Class2-MontyHall-毛一鸣.zip"> 毛一鸣</a></li>
+<li> <a href="/problem_solving/images/5/59/OT1-Class3-Monty_Hall-%E6%AF%95%E7%A7%8B%E5%AE%87.pptx" class="internal" title="OT1-Class3-Monty Hall-毕秋宇.pptx"> 毕秋宇</a></li></ol>
+<ul><li> TC Problem 5.2: Searching an unsorted array</li></ul>
+<ol><li> <a href="/problem_solving/images/4/48/OT2-Class1-Search-%E8%AE%B8%E8%87%B4%E6%98%8E.pptx" class="internal" title="OT2-Class1-Search-许致明.pptx"> 许致明</a> ((f) 有误)</li>
+<li> <a href="/problem_solving/images/4/42/OT2-Class2-Search-%E4%BD%95%E6%B6%A6%E9%9B%A8.pptx" class="internal" title="OT2-Class2-Search-何润雨.pptx"> 何润雨</a></li>
+<li> <a href="/problem_solving/images/e/e3/OT2-Class3-Search-%E6%AE%B7%E5%85%86%E6%81%92.pptx" class="internal" title="OT2-Class3-Search-殷兆恒.pptx"> 殷兆恒</a></li></ol>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr>
+<tr>
+<td>
+<p>2018-05-07
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/4/4a/2-7-discrete-probability.pdf" class="internal" title="2-7-discrete-probability.pdf"> 2-7-discrete-probability</a></li>
+<li> <a href="/problem_solving/images/8/8e/2-7-discrete-probability-handout.pdf" class="internal" title="2-7-discrete-probability-handout.pdf"> 2-7-discrete-probability-handout</a></li></ul>
+</td>
+<td>
+<ul><li> TC Problem 7.4: Stack depth for quicksort</li></ul>
+<ol><li> <a href="/problem_solving/images/e/eb/OT1-Class1-Quicksort-%E5%BE%90%E8%87%A3.pptx" class="internal" title="OT1-Class1-Quicksort-徐臣.pptx"> 徐臣</a></li>
+<li> <a href="/problem_solving/images/7/7e/OT1-Class2-Quicksort-%E9%99%88%E6%98%B1%E5%90%8D.pdf" class="internal" title="OT1-Class2-Quicksort-陈昱名.pdf"> 陈昱名</a></li>
+<li> <a href="/problem_solving/images/e/ee/OT1-Class3-Quicksort-%E8%B0%A2%E4%B9%83%E5%AE%B9.pptx" class="internal" title="OT1-Class3-Quicksort-谢乃容.pptx"> 谢乃容</a></li></ol>
+<ul><li> Random-Selection 算法的期望时间复杂度</li></ul>
+<ol><li> <a href="/problem_solving/images/e/ee/OT2-Class1-Selection-%E9%84%A2%E6%8C%AF%E5%AE%87.zip" class="internal" title="OT2-Class1-Selection-鄢振宇.zip"> 鄢振宇</a></li>
+<li> <a href="/problem_solving/images/0/01/OT2-Class2-Selection-%E5%BC%A0%E6%89%AC%E6%92%AD.pdf" class="internal" title="OT2-Class2-Selection-张扬播.pdf"> 张扬播</a></li>
+<li> <a href="/problem_solving/images/0/04/OT2-Class3-Selection-%E9%9F%A9%E5%8D%9A.pdf" class="internal" title="OT2-Class3-Selection-韩博.pdf"> 韩博</a></li></ol>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Monty_Hall_problem">Monty Hall problem (wiki)</a></li></ul>
+<pre>   (阅读建议: 明确各种版本背后所基于的假设。)
+</pre>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Boy_or_Girl_paradox">Boy or Girl paradox (wiki)</a></li></ul>
+<pre>   (阅读建议: 理解为什么"获取信息"的方式会影响最终的结果。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-05-16
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/4/4d/2-8-probabilistic-analysis.pdf" class="internal" title="2-8-probabilistic-analysis.pdf"> 2-8-probabilistic-analysis</a></li>
+<li> <a href="/problem_solving/images/e/ea/2-8-probabilistic-analysis-handout.pdf" class="internal" title="2-8-probabilistic-analysis-handout.pdf"> 2-8-probabilistic-analysis-handout</a></li></ul>
+</td>
+<td>
+<ul><li> A Stack, Two Queues
+<ul><li> <a href="/problem_solving/images/d/da/OT1-Class2-StackQueue-%E9%99%B6%E7%BB%8D%E8%AF%9A.pdf" class="internal" title="OT1-Class2-StackQueue-陶绍诚.pdf"> 陶绍诚</a> (二班)</li></ul></li>
+<li> Stack 实现的正确性
+<ul><li> <a href="/problem_solving/images/a/ab/OT2-Class2-Proof-%E5%A7%9C%E5%8B%87%E5%88%9A.pptx" class="internal" title="OT2-Class2-Proof-姜勇刚.pptx"> 姜勇刚</a> (二班)</li></ul></li></ul>
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Probability_interpretations">Probability interpretations (wiki)</a></li></ul>
+<pre>   (阅读建议: 了解对于概率的多种解释方式。)
+</pre>
+<ul><li> <a href="/problem_solving/images/0/06/Concrete_Mathematics_-_R._Graham%2C_D._Knuth%2C_O._Patashnik.pdf" class="internal" title="Concrete Mathematics - R. Graham, D. Knuth, O. Patashnik.pdf"> Concrete Mathematics: A Foundation for Computer Science</a> Sections 8.3 and 8.4</li></ul>
+<pre>   (阅读建议: Coin pattern 问题解析。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-05-21
+</p>
+</td>
+<td>
+<ul><li> 程序设计辅导 (四)</li></ul>
+</td>
+<td>
+<ul><li> Heapsort vs. Quicksort 性能</li></ul>
+<ol><li> <a href="/problem_solving/images/0/06/OT1-Class1-Quicksort-Heapsort-%E5%BC%A0%E7%81%B5%E6%AF%93.pptx" class="internal" title="OT1-Class1-Quicksort-Heapsort-张灵毓.pptx"> 张灵毓</a></li>
+<li> <a href="/problem_solving/images/8/8a/OT1-Class2-Quicksort-Heapsort-%E5%87%8C%E6%99%A8%E5%AE%87.zip" class="internal" title="OT1-Class2-Quicksort-Heapsort-凌晨宇.zip"> 凌晨宇</a></li>
+<li> <a href="/problem_solving/images/8/83/OT1-Class3-Quicksort-Heapsort-%E5%BB%96%E7%8E%BA%E7%84%B6.pdf" class="internal" title="OT1-Class3-Quicksort-Heapsort-廖玺然.pdf"> 廖玺然</a></li></ol>
+<ul><li> Binary tree =&gt; Heap =&gt; Priority queue</li></ul>
+<ol><li> <a href="/problem_solving/images/7/7e/OT2-Class1-Priority-Queue-%E9%A9%AC%E5%B8%B8%E9%A3%8E.pptx" class="internal" title="OT2-Class1-Priority-Queue-马常风.pptx"> 马常风</a></li>
+<li> <a href="/problem_solving/images/e/e1/OT2-Class-Priority-Queue-%E9%82%B1%E5%87%AF.pptx" class="internal" title="OT2-Class-Priority-Queue-邱凯.pptx"> 邱凯</a></li>
+<li> <a href="/problem_solving/images/3/33/OT2-Class3-Priority-Queue-%E8%82%96%E6%B1%9F.pdf" class="internal" title="OT2-Class3-Priority-Queue-肖江.pdf"> 肖江</a> <a href="/problem_solving/images/5/5a/OT2-Class3-Priority-Queue-handout-%E8%82%96%E6%B1%9F.pdf" class="internal" title="OT2-Class3-Priority-Queue-handout-肖江.pdf"> 肖江 handout</a> ‎</li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/7/73/The_Analysis_of_Quicksort_Programs_%28Sedgewick%29.pdf" class="internal" title="The Analysis of Quicksort Programs (Sedgewick).pdf"> The Analysis of Quicksort Programs (Sedgewick)</a></li></ul>
+<pre>   (阅读建议: 通过分析 Quicksort 感受算法分析的威力。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-05-28
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/a/a9/2-9-sorting-selection.pdf" class="internal" title="2-9-sorting-selection.pdf">2-9-sorting-selection.pdf</a></li>
+<li> <a href="/problem_solving/images/8/88/2-9-sorting-selection-handout.pdf" class="internal" title="2-9-sorting-selection-handout.pdf">2-9-sorting-selection-handout.pdf</a></li></ul>
+</td>
+<td>
+<ul><li> Universal Hashing</li></ul>
+<ol><li> <a href="/problem_solving/images/0/05/OT1-Class3-Universal_Hashing-%E5%91%A8%E6%B6%9B.pdf" class="internal" title="OT1-Class3-Universal Hashing-周涛.pdf"> 周涛</a></li></ol>
+<ul><li> Hashing 故事</li></ul>
+<ol><li> <a href="/problem_solving/images/c/c8/OT2-Class2-Hashing-Story-%E9%99%88%E5%B7%8D.pdf" class="internal" title="OT2-Class2-Hashing-Story-陈巍.pdf"> 陈巍</a></li></ol>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/6/62/Adversary_Arguments_%28Jeff_2013%29.pdf" class="internal" title="Adversary Arguments (Jeff 2013).pdf"> Adversary Arguments (Jeff 讲义)</a></li></ul>
+<pre>   (阅读建议: 理解 adversary arguments。理解讲义中的证明。)
+</pre>
+<ul><li> <a href="/problem_solving/images/8/86/SB_-_Computer_Algorithms_-_Introduction_to_Design_and_Analysis_%283rd%29.pdf" class="internal" title="SB - Computer Algorithms - Introduction to Design and Analysis (3rd).pdf"> Computer Algorithms - Introduction to Design and Analysis</a></li></ul>
+<pre>   (阅读建议: 第五章关于对手论证的内容。)
+</pre>
+<ul><li> <a href="/problem_solving/images/9/98/The_Coupon_Collectors_Problem_%28MAT2%2C_2015%29.pdf" class="internal" title="The Coupon Collectors Problem (MAT2, 2015).pdf"> The Coupon Collector's Problem (MAT2, 2015)</a></li></ul>
+<pre>   (阅读建议: 了解该问题的不同变体，并尝试理解解题过程。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-05-30
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/0/0b/2-10-data-structures.pdf" class="internal" title="2-10-data-structures.pdf">2-10-data-structure.pdf</a></li>
+<li> <a href="/problem_solving/images/4/4f/2-10-data-structures-handout.pdf" class="internal" title="2-10-data-structures-handout.pdf">2-10-data-structures-handout.pdf</a></li></ul>
+</td>
+<td>
+<ul><li> 无 (临时调课)</li></ul>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/f/fb/EWD831_Why_Numbering_Should_Start_at_Zero.PDF" class="internal" title="EWD831 Why Numbering Should Start at Zero.PDF"> Why Numbering Should Start at Zero (EWD831)</a></li></ul>
+<pre>   (阅读建议: 学习 Dijkstra 如何说理。了解 "下标为何从 0 开始"。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-06-07
+</p>
+</td>
+<td>
+<ul><li> 程序设计辅导 (四)</li></ul>
+</td>
+<td>
+<ul><li> Splay tree
+<ul><li> <a href="/problem_solving/images/b/b4/OT1-Class1-Splay-%E6%9D%9C%E6%98%9F%E4%BA%AE.pdf" class="internal" title="OT1-Class1-Splay-杜星亮.pdf"> 杜星亮</a> (一班)</li>
+<li> 孙旭东 (一班)</li></ul></li>
+<li> 中序遍历的正确性
+<ul><li> 银加 (二班)</li>
+<li> <a href="/problem_solving/images/2/29/OT2-Class2-Inorder-%E9%84%A2%E6%8C%AF%E5%AE%87.zip" class="internal" title="OT2-Class2-Inorder-鄢振宇.zip"> 鄢振宇</a> (一班)</li></ul></li></ul>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr>
+<tr>
+<td>
+<p>2018-06-20
+</p>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/a/a5/2-11-heapsort.pdf" class="internal" title="2-11-heapsort.pdf">2-11-heapsort.pdf</a></li>
+<li> <a href="/problem_solving/images/6/69/2-11-heapsort-handout.pdf" class="internal" title="2-11-heapsort-handout.pdf">2-11-heapsort-handout.pdf</a></li>
+<li> <a href="/problem_solving/images/6/62/Obama.zip" class="internal" title="Obama.zip"> Obama.zip</a></li></ul>
+</td>
+<td>
+<ul><li> B 树插入算法对高度的影响
+<ul><li> 黄秉焜 (二班)</li>
+<li> 殷兆恒 (三班)</li></ul></li>
+<li> 介绍 B* 树
+<ul><li> 邱凯 (二班) （临时取消）</li>
+<li> 谢乃容 (三班)</li></ul></li></ul>
+</td>
+<td>
+<ul><li> <a href="/problem_solving/images/3/3f/The_Analysis_of_Heapsort_%28Sedgewick_1992%29.pdf" class="internal" title="The Analysis of Heapsort (Sedgewick 1992).pdf"> The Analysis of Heapsort (Sedgewick 1992).pdf</a></li>
+<li> <a href="/problem_solving/images/5/55/On_the_Best_Case_of_Heapsort_%281994%29.pdf" class="internal" title="On the Best Case of Heapsort (1994).pdf"> On the Best Case of Heapsort (1994).pdf</a></li></ul>
+<pre>   (阅读建议：了解 Heapsort average-case 和 best-case 的分析方法。)
+</pre>
+</td></tr>
+<tr>
+<td>
+<p>2018-06-22
+</p>
+</td>
+<td>
+<ul><li> 无 [Hash table, BST, RB-tree, and B tree] (临时补课)</li></ul>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td>
+<td>
+<ul><li> 无</li></ul>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190402173150
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.067 seconds
+Real time usage: 0.075 seconds
+Preprocessor visited node count: 2/1000000
+Preprocessor generated node count: 8/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key problem_solving_wiki:pcache:idhash:803-0!*!*!*!*!*!* and timestamp 20190402173150 and revision id 2671
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2017级--小班讨论_(第二学期)&amp;oldid=2671">http://cslabcms.nju.edu.cn/problem_solving/index.php?title=2017级--小班讨论_(第二学期)&amp;oldid=2671</a>”					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-login"><a href="/problem_solving/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA+%28%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%29" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/problem_solving/index.php/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)"  title="查看内容页面[c]" accesskey="c">页面</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/problem_solving/index.php?title=%E8%AE%A8%E8%AE%BA:2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)&amp;action=edit&amp;redlink=1"  title="关于内容页面的讨论[t]" accesskey="t" rel="discussion">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>变种</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/problem_solving/index.php/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)" >阅读</a></span></li>
+															<li id="ca-viewsource"><span><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)&amp;action=edit"  title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)&amp;action=history"  title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/problem_solving/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="搜索" title="搜索问题求解[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/problem_solving/index.php/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="查找帮助的地方">帮助</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/problem_solving/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印版本</a></li><li id="t-permalink"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)&amp;oldid=2671" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/problem_solving/index.php?title=2017%E7%BA%A7--%E5%B0%8F%E7%8F%AD%E8%AE%A8%E8%AE%BA_(%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F)&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修改于2018年6月28日 (星期四) 20:42。</li>
+											<li id="footer-info-copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式分享</a>授权。</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/problem_solving/index.php/problem_solving:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="problem solving:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/problem_solving/index.php/problem_solving:%E5%85%B3%E4%BA%8E" title="problem solving:关于">关于问题求解</a></li>
+											<li id="footer-places-disclaimer"><a href="/problem_solving/index.php/problem_solving:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="problem solving:免责声明">免责声明</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/problem_solving/resources/assets/licenses/cc-by-sa.png" alt="知识共享署名-相同方式分享" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/problem_solving/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/problem_solving/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /problem_solving/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132});});</script>
+	</body>
+</html>
